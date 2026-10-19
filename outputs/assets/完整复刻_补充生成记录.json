@@ -1,0 +1,45 @@
+[
+  {
+    "name": "setsuna_yellow_bouquet",
+    "refs": [
+      "detail_39.png",
+      "ogiso_ref.png"
+    ],
+    "subject": "Setsuna Ogiso from White Album 2, long chestnut twin tails with black ribbons, brown eyes, navy blazer white shirt blue bow and blue plaid skirt. A dynamic tilted three-quarter body pose with arms stretched wide, left hand holding a white wrapped purple rose bouquet at far left and right palm reaching far right. Face upper middle, skirt and long hair drifting diagonally. Mustard yellow paper background. Pale skin, subtle cyan and yellow edge offsets. No rabbit ears.",
+    "kind": "character",
+    "prompt": "One standalone landscape 16:9 illustration frame requested 1920x1080. Setsuna Ogiso from White Album 2, long chestnut twin tails with black ribbons, brown eyes, navy blazer white shirt blue bow and blue plaid skirt. A dynamic tilted three-quarter body pose with arms stretched wide, left hand holding a white wrapped purple rose bouquet at far left and right palm reaching far right. Face upper middle, skirt and long hair drifting diagonally. Mustard yellow paper background. Pale skin, subtle cyan and yellow edge offsets. No rabbit ears. Style reference image 1, when present image 2 provides character identity/clothes only. Rough imperfect dark pencil/ink contours, coarse paper tooth, colored pencil hatching, matte flat muted colors, tiny cyan-yellow registration offsets, strong tactile hand drawing. Match the supplied music PV reference rather than clean glossy digital anime. Full bleed, no black bars, no typography, no text, no logos, no watermarks, no frames, no snow. A single image, not a collage.",
+    "source": "LOCAL_PATH/exec-63373d7d-be85-48c6-bf8c-735e8b667da2.png"
+  },
+  {
+    "name": "kazusa_yellow_bouquet",
+    "refs": [
+      "detail_39.png",
+      "touma_ref.png"
+    ],
+    "subject": "Kazusa Touma from White Album 2, very long straight blue-black hair and blunt bangs, blue-gray eyes, navy blazer white shirt blue striped tie and blue plaid skirt. A dynamic tilted three-quarter body pose, arms stretched wide, left hand holds a white wrapped purple rose bouquet at far left and right palm reaches far right. Face upper middle, skirt and hair drifting. Mustard yellow paper background. Pale skin, subtle cyan yellow edge offsets. No rabbit ears.",
+    "kind": "character",
+    "prompt": "One standalone landscape 16:9 illustration frame requested 1920x1080. Kazusa Touma from White Album 2, very long straight blue-black hair and blunt bangs, blue-gray eyes, navy blazer white shirt blue striped tie and blue plaid skirt. A dynamic tilted three-quarter body pose, arms stretched wide, left hand holds a white wrapped purple rose bouquet at far left and right palm reaches far right. Face upper middle, skirt and hair drifting. Mustard yellow paper background. Pale skin, subtle cyan yellow edge offsets. No rabbit ears. Style reference image 1, when present image 2 provides character identity/clothes only. Rough imperfect dark pencil/ink contours, coarse paper tooth, colored pencil hatching, matte flat muted colors, tiny cyan-yellow registration offsets, strong tactile hand drawing. Match the supplied music PV reference rather than clean glossy digital anime. Full bleed, no black bars, no typography, no text, no logos, no watermarks, no frames, no snow. A single image, not a collage.",
+    "source": "LOCAL_PATH/exec-7c706662-e85c-426f-b9f9-89cc77f4ce2c.png"
+  },
+  {
+    "name": "bouquet_toss",
+    "refs": [
+      "lyric_52.553.png"
+    ],
+    "subject": "A close-up music-video insert matching the reference composition: a white paper-wrapped bouquet of purple roses floating in midair near the upper center, tilted diagonally, scattered violet petals. Below, one delicate HUMAN girl's hand extends upward from the bottom edge, white shirt cuff under navy school blazer sleeve. Rich mustard yellow coarse paper background, dark vignette at bottom. No rabbit character, no visible face, no letters.",
+    "kind": "insert",
+    "prompt": "One standalone landscape 16:9 illustration frame requested 1920x1080. A close-up music-video insert matching the reference composition: a white paper-wrapped bouquet of purple roses floating in midair near the upper center, tilted diagonally, scattered violet petals. Below, one delicate HUMAN girl's hand extends upward from the bottom edge, white shirt cuff under navy school blazer sleeve. Rich mustard yellow coarse paper background, dark vignette at bottom. No rabbit character, no visible face, no letters. Style reference image 1, when present image 2 provides character identity/clothes only. Rough imperfect dark pencil/ink contours, coarse paper tooth, colored pencil hatching, matte flat muted colors, tiny cyan-yellow registration offsets, strong tactile hand drawing. Match the supplied music PV reference rather than clean glossy digital anime. Full bleed, no black bars, no typography, no text, no logos, no watermarks, no frames, no snow. A single image, not a collage.",
+    "source": "LOCAL_PATH/exec-75976ac1-abac-482b-8a61-e2efba7a3a08.png"
+  },
+  {
+    "name": "setsuna_shoes",
+    "refs": [
+      "lyric_53.595.png",
+      "ogiso_ref.png"
+    ],
+    "subject": "Close-up PV insert of Setsuna Ogiso's school uniform lower legs only, cropped just below knees at top: navy knee socks and brown leather loafers, standing on textured mustard yellow paper ground scattered with violet rose petals. Two human feet in relaxed slightly turned pose, schoolgirl proportions, no face or upper body. Similar perspective/framing to image 1 but replace rabbit suit legs with girl socks and loafers from identity image 2.",
+    "kind": "insert",
+    "prompt": "One standalone landscape 16:9 illustration frame requested 1920x1080. Close-up PV insert of Setsuna Ogiso's school uniform lower legs only, cropped just below knees at top: navy knee socks and brown leather loafers, standing on textured mustard yellow paper ground scattered with violet rose petals. Two human feet in relaxed slightly turned pose, schoolgirl proportions, no face or upper body. Similar perspective/framing to image 1 but replace rabbit suit legs with girl socks and loafers from identity image 2. Style reference image 1, when present image 2 provides character identity/clothes only. Rough imperfect dark pencil/ink contours, coarse paper tooth, colored pencil hatching, matte flat muted colors, tiny cyan-yellow registration offsets, strong tactile hand drawing. Match the supplied music PV reference rather than clean glossy digital anime. Full bleed, no black bars, no typography, no text, no logos, no watermarks, no frames, no snow. A single image, not a collage.",
+    "source": "LOCAL_PATH/exec-da3ed47c-33bc-43e3-aa3b-27ea0f2ba33e.png"
+  }
+]

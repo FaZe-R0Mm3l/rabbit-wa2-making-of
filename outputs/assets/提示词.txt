@@ -1,0 +1,14 @@
+Built-in image_gen. Style reference: detail_39.png. Identity reference: official ogiso_figure.png or touma_figure.png.
+One landscape music-video illustration, requested 1920x1080. Scratchy uneven dark pencil contours, rough colored pencil shading on coarse paper, muted flat colors, subtle cyan/yellow contour registration offsets, dark vignette. Single centered girl, waist crop, no rabbit, no text, no watermark, no glossy digital shading. Simple colored textured wall darker at bottom, top area relatively empty for snow. No letterbox bars.
+
+setsuna_1: Setsuna Ogiso, chestnut brown long hair in high twin tails with black ribbons, warm brown eyes, navy blazer and blue neck bow. Half-body portrait, turned three-quarter left, holding a small microphone close to chest, fragile gentle smile.
+Background: mustard yellow
+
+kazusa_1: Kazusa Touma, very long straight blue-black hair, blunt bangs, cool blue-gray eyes, navy blazer and blue striped necktie. Half-body portrait three-quarter right, one hand resting above piano keys at bottom edge, distant melancholic gaze.
+Background: burnt orange
+
+setsuna_2: Setsuna Ogiso, chestnut brown long hair in high twin tails with black ribbons, warm brown eyes, navy blazer and blue neck bow. A distinctly different pose: close-up looking back over shoulder toward viewer, wind-swept twin tails, eyes glistening with sorrow, hand gently holding collar bow.
+Background: acid lime green
+
+kazusa_2: Kazusa Touma, very long straight blue-black hair, blunt bangs, cool blue-gray eyes, navy blazer and blue striped necktie. A distinctly different pose: close-up frontal portrait, head slightly lowered, looking up at viewer, long black hair crossing shoulder, hand extended toward viewer.
+Background: muted violet

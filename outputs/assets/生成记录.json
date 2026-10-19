@@ -1,0 +1,38 @@
+{
+  "method": "内置 image_gen",
+  "assets": [
+    {
+      "name": "setsuna_1",
+      "source": "LOCAL_PATH/exec-9b3de8f4-3505-4da5-a920-e86c6d362963.png",
+      "n": "setsuna_1",
+      "ref": "ogiso",
+      "pose": "Setsuna Ogiso, chestnut brown long hair in high twin tails with black ribbons, warm brown eyes, navy blazer and blue neck bow. Half-body portrait, turned three-quarter left, holding a small microphone close to chest, fragile gentle smile.",
+      "bg": "mustard yellow"
+    },
+    {
+      "name": "kazusa_1",
+      "source": "LOCAL_PATH/exec-3b80b5ef-05cd-4b48-beec-55820d70672b.png",
+      "n": "kazusa_1",
+      "ref": "touma",
+      "pose": "Kazusa Touma, very long straight blue-black hair, blunt bangs, cool blue-gray eyes, navy blazer and blue striped necktie. Half-body portrait three-quarter right, one hand resting above piano keys at bottom edge, distant melancholic gaze.",
+      "bg": "burnt orange"
+    },
+    {
+      "name": "setsuna_2",
+      "source": "LOCAL_PATH/exec-2d305327-c337-4ade-804e-6af86206cc6f.png",
+      "n": "setsuna_2",
+      "ref": "ogiso",
+      "pose": "Setsuna Ogiso, chestnut brown long hair in high twin tails with black ribbons, warm brown eyes, navy blazer and blue neck bow. A distinctly different pose: close-up looking back over shoulder toward viewer, wind-swept twin tails, eyes glistening with sorrow, hand gently holding collar bow.",
+      "bg": "acid lime green"
+    },
+    {
+      "name": "kazusa_2",
+      "source": "LOCAL_PATH/exec-cebbeb29-ab75-437a-b13f-bfcc7ca2b61c.png",
+      "n": "kazusa_2",
+      "ref": "touma",
+      "pose": "Kazusa Touma, very long straight blue-black hair, blunt bangs, cool blue-gray eyes, navy blazer and blue striped necktie. A distinctly different pose: close-up frontal portrait, head slightly lowered, looking up at viewer, long black hair crossing shoulder, hand extended toward viewer.",
+      "bg": "muted violet"
+    }
+  ],
+  "style": "参考原片：不规则铅笔轮廓、彩铅纸张颗粒、平涂、轻微色差；无文字。"
+}
