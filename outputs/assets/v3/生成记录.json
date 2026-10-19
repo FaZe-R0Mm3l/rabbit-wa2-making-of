@@ -1,0 +1,44 @@
+[
+  {
+    "name": "flash_microphone",
+    "source": "yellow_paper.png",
+    "transparent": false,
+    "prompt": "Create one full-bleed 16:9 music PV illustration, landscape requested 1920x1080. Use reference only for the exact mustard-yellow coarse paper background and rough pencil material. A SINGLE handheld stage microphone placed exactly in the CENTER of the canvas, complete microphone visible, nearly vertical with slight diagonal tilt; silver-gray wire mesh capsule, dark navy handle, thin cable gently curls beneath. The object is large enough to read in a quick flash, occupies central 35% width and 60% height. Rough hand inked pencil contours, colored-pencil hatching, matte chalk shading, tiny cyan/yellow registration offsets. Background yellow textured paper with darker lower vignette like reference. No people, no hands, no lettering, no panels, no frame, no black bars, no snow.",
+    "generated": "LOCAL_PATH/exec-3c0f10c5-aa4d-4ead-b2f2-a5d6e5e23779.png"
+  },
+  {
+    "name": "flash_piano",
+    "source": "yellow_paper.png",
+    "transparent": false,
+    "prompt": "Create one full-bleed 16:9 music PV illustration, landscape requested 1920x1080. Reference defines mustard-yellow coarse textured paper background and handmade material only. A SINGLE black grand piano, entire silhouette centered exactly at canvas center, open triangular lid and clearly visible keyboard, elegant three-quarter front view, occupies center 55% width and 55% height, moderate empty space on every side. No person, no player, no bench. Rough uneven dark pencil/ink contour, colored pencil hatching, flat matte shading, subtle cyan/yellow edge registration offsets. Yellow textured paper background darkening below. No text, no logo, no panels, no black bars, no snow.",
+    "generated": "LOCAL_PATH/exec-aab689f8-2ef2-4ac5-a3d2-d9ce9d963f17.png"
+  },
+  {
+    "name": "flash_torn_score",
+    "source": "yellow_paper.png",
+    "transparent": false,
+    "prompt": "Create one full-bleed landscape 16:9 music PV illustration requested 1920x1080, matching the reference mustard-yellow rough paper backdrop and handdrawn colored pencil texture. Main object exactly CENTER: one handwritten music manuscript page titled precisely 「届かない恋」 at top, torn vertically down its middle into EXACTLY TWO complementary halves with irregular fibrous jagged matching edges. The left half leans slightly left, right half slightly right, 50px visible gap between halves, together occupy central 45% width and 65% height. Cream-white music manuscript paper with several groups of FIVE-LINE staves, treble and bass clefs, handwritten notes; small crossed-out notation evokes an emotional school-band manuscript from White Album 2. This is a stylized newly illustrated prop, not a claimed original game screenshot. Keep title readable. No hands, no people, no other words, no colored ribbons, no panels, no black bars, no snow. Dark pencil contours and subtle cyan/yellow registration offsets.",
+    "generated": "LOCAL_PATH/exec-38eb00cd-68c9-4ea8-9ed6-0fd344125d60.png"
+  },
+  {
+    "name": "kazusa_bouquet_teal_blue",
+    "source": "kazusa_bouquet_teal.png",
+    "transparent": false,
+    "prompt": "Edit this image with strict preservation. Change ONLY the purple rose blooms held by Kazusa Touma on the LEFT into rich BLUE roses, with cobalt and cornflower-blue shaded petals. Change the loose purple petals scattered around that bouquet into matching blue petals. Preserve the entire character's face, eyes, black hair, clothes, skirt, hands, pose and exact composition. Preserve the white bouquet wrapping, teal paper background, original rough colored-pencil texture and all original contours. Do not recolor character/clothes/background. No additions, no text, no new decorations. Keep exact canvas and native dimensions, full bleed.",
+    "generated": "LOCAL_PATH/exec-2bfc3336-05fb-4dc1-ab89-45c26065ecbe.png"
+  },
+  {
+    "name": "kazusa_yellow_bouquet_blue",
+    "source": "kazusa_yellow_bouquet.png",
+    "transparent": false,
+    "prompt": "Edit this image with strict preservation. Change ONLY the purple rose blooms held by Kazusa Touma on the LEFT into rich BLUE roses, cobalt and cornflower-blue shaded petals. Recolor the floating purple petals near this bouquet blue as well. Preserve every other part: recognizable face, eyes, black hair, navy blazer, shirt, tie, plaid skirt, hands, pose, framing, mustard yellow background and rough colored pencil material. White paper wrapping stays white. No new objects, no lettering. Keep same native size and composition.",
+    "generated": "LOCAL_PATH/exec-0b21ca99-ebdd-4e18-937d-c9706a42dd5a.png"
+  },
+  {
+    "name": "bouquet_toss_dual",
+    "source": "bouquet_toss.png",
+    "transparent": false,
+    "prompt": "Edit the supplied music-PV frame. Preserve the white bouquet wrapping, hand rising from below, navy sleeve, yellow paper background, exact framing and rough handdrawn pencil texture. Change the rose flower heads inside the bouquet into a natural mixture of TWO clearly distinguishable colors: cobalt/cornflower BLUE roses and the ORIGINAL MAGENTA-PURPLE roses, approximately half each, intermingled. Remove all loose floating petals OUTSIDE the bouquet, leaving clean yellow background in those locations; these will be animated separately. Keep flowers inside the bouquet only. No music sheets, no notes, no text, no snow, no added elements. Preserve exact canvas dimensions and placement.",
+    "generated": "LOCAL_PATH/exec-f3a9032e-2e91-4582-b721-d0c38520ccb3.png"
+  }
+]

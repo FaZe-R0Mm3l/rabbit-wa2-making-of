@@ -1,0 +1,20 @@
+[
+  {
+    "name": "flash_microphone_small",
+    "source": "v3/flash_microphone.png",
+    "prompt": "Revise only the composition of this handmade music PV illustration. Keep the SAME full-bleed mustard yellow paper background, texture, vignette, exact same canvas size and rough pencil rendering. Redraw the SAME handheld silver mesh / navy microphone substantially SMALLER, now about 42 percent of canvas height including its short curling cable, with plenty of empty yellow paper on all four sides. Its complete silhouette must be exactly CENTERED on canvas horizontally and vertically, not touching any edge. No hands, people, text, shadows shaped like figures or decorations. Do not add objects. Do not change the paper texture style.",
+    "generated": "LOCAL_PATH/exec-2a53c693-695b-44ab-8393-3843115972d8.png"
+  },
+  {
+    "name": "flash_broken_keys",
+    "source": "yellow_paper.png",
+    "prompt": "One full-bleed 16:9 handmade music PV insert, requested 1920x1080. Use reference's mustard-yellow textured paper background and rough pencil style. EXACTLY AT THE CENTER floats a small shattered section of PIANO KEYS: about 7 ivory white keys with 4 black keys, snapped and split into 3 separated jagged fragments, chipped ivory, visible cracks, a few tiny splinters between the pieces. The three fragments still suggest a broken keyboard, floating close together with slight opposing angles. Overall object cluster occupies only middle 40 percent canvas width and 30 percent canvas height. Important: NO whole piano, NO grand piano silhouette, NO lid, NO legs, NO player or hands. Dark uneven pencil outlines, rough colored-pencil paper grain, chalk shading, subtle cyan/yellow registration offsets. The paper background fills the entire canvas, ample negative space all sides. No text, no symbols, no snow, no black bars.",
+    "generated": "LOCAL_PATH/exec-52b35aec-2fc2-42ea-9a2b-5f2925a4faad.png"
+  },
+  {
+    "name": "flash_torn_score_small",
+    "source": "v3/flash_torn_score.png",
+    "prompt": "Revise ONLY the composition of this handdrawn torn music manuscript. Keep exactly two halves with matching jagged torn edges and the Japanese title 「届かない恋」 across the top. Make both halves together substantially SMALLER, occupying only central 32 percent canvas width and 43 percent canvas height. Both pieces form a centered group with a little air between them and gentle opposite tilts. Center the whole group horizontally and vertically. Preserve the same five-line staffs, handwritten notes and coarse cream-white paper appearance, and the same full-bleed mustard-yellow rough paper background. Keep exact canvas size. No new objects, people, hands or other text. No black bars or panels.",
+    "generated": "LOCAL_PATH/exec-2376b9f6-94e1-4b29-814e-814a612109a7.png"
+  }
+]
