@@ -1,0 +1,201 @@
+{
+  "output": "PROJECT_ROOT\\outputs\\rabbit_白色相簿2_全片_v1.mp4",
+  "metadata": {
+    "width": 1920,
+    "height": 1080,
+    "duration": 146.099955,
+    "time_base": "1/16000",
+    "frame_count": 3502
+  },
+  "frame_count_equal": true,
+  "max_frame_pts_error_seconds": 0.0,
+  "black_frame_mismatches": 0,
+  "audio_identical": true,
+  "output_audio": {
+    "decoded_sha256": "3c2fb8d6435c8d2eefd183bb1acb8e0b51038b57ceb1b3d51c647ca98fa37219",
+    "decoded_samples": 6443008,
+    "sample_rate": 44100,
+    "first_pts": 0.0,
+    "last_pts": 146.07673469387754
+  },
+  "source_audio": {
+    "decoded_sha256": "3c2fb8d6435c8d2eefd183bb1acb8e0b51038b57ceb1b3d51c647ca98fa37219",
+    "decoded_samples": 6443008,
+    "sample_rate": 44100,
+    "first_pts": 0.0,
+    "last_pts": 146.07673469387754
+  },
+  "status": "Final full version",
+  "unique_flash_images": 21,
+  "flash_timing_checks": [
+    {
+      "start": 42.709375,
+      "end": 43.2933125,
+      "asset": "f11_rooftop",
+      "lyric": "yellow",
+      "first_visible_pts": 683350,
+      "frame_count": 14
+    },
+    {
+      "start": 43.2933125,
+      "end": 43.7520625,
+      "asset": "f12_classroom",
+      "lyric": "monkey",
+      "first_visible_pts": 692693,
+      "frame_count": 11
+    },
+    {
+      "start": 43.7520625,
+      "end": 44.336,
+      "asset": "f13_karaoke",
+      "lyric": "drunk",
+      "first_visible_pts": 700033,
+      "frame_count": 14
+    },
+    {
+      "start": 44.336,
+      "end": 44.7530625,
+      "asset": "f14_sick",
+      "lyric": "baby",
+      "first_visible_pts": 709376,
+      "frame_count": 10
+    },
+    {
+      "start": 51.4264375,
+      "end": 51.8435,
+      "asset": "f15_depart_class",
+      "lyric": "消えろ",
+      "first_visible_pts": 822823,
+      "frame_count": 10
+    },
+    {
+      "start": 51.968625,
+      "end": 52.4274375,
+      "asset": "f16_haruki_guitar",
+      "lyric": "noisy",
+      "first_visible_pts": 831498,
+      "frame_count": 11
+    },
+    {
+      "start": 52.5525625,
+      "end": 53.470125,
+      "asset": "f17_rehearsal",
+      "lyric": "minority",
+      "first_visible_pts": 840841,
+      "frame_count": 22
+    },
+    {
+      "start": 95.053375,
+      "end": 95.6373125,
+      "asset": "f21_festival",
+      "lyric": "yellow",
+      "first_visible_pts": 1520854,
+      "frame_count": 14
+    },
+    {
+      "start": 95.6373125,
+      "end": 96.096125,
+      "asset": "f22_haruki_run",
+      "lyric": "monkey",
+      "first_visible_pts": 1530197,
+      "frame_count": 11
+    },
+    {
+      "start": 96.096125,
+      "end": 96.68,
+      "asset": "f23_christmas",
+      "lyric": "drunk",
+      "first_visible_pts": 1537538,
+      "frame_count": 14
+    },
+    {
+      "start": 96.68,
+      "end": 97.097125,
+      "asset": "f24_snow_cry",
+      "lyric": "baby",
+      "first_visible_pts": 1546880,
+      "frame_count": 10
+    },
+    {
+      "start": 103.7704375,
+      "end": 104.1875,
+      "asset": "f25_airport_turn",
+      "lyric": "消えろ",
+      "first_visible_pts": 1660327,
+      "frame_count": 10
+    },
+    {
+      "start": 104.312625,
+      "end": 104.7714375,
+      "asset": "f26_stage_kazusa",
+      "lyric": "noisy",
+      "first_visible_pts": 1669002,
+      "frame_count": 11
+    },
+    {
+      "start": 104.8965625,
+      "end": 105.814125,
+      "asset": "f27_airport_setsuna",
+      "lyric": "minority",
+      "first_visible_pts": 1678345,
+      "frame_count": 22
+    },
+    {
+      "start": 112.4875,
+      "end": 113.071375,
+      "asset": "f31_concert_bow",
+      "lyric": "yellow",
+      "first_visible_pts": 1799800,
+      "frame_count": 14
+    },
+    {
+      "start": 113.071375,
+      "end": 113.5301875,
+      "asset": "f32_forced_smile",
+      "lyric": "monkey",
+      "first_visible_pts": 1809142,
+      "frame_count": 11
+    },
+    {
+      "start": 113.5301875,
+      "end": 114.114125,
+      "asset": "f33_setsuna_hug",
+      "lyric": "drunk",
+      "first_visible_pts": 1816483,
+      "frame_count": 14
+    },
+    {
+      "start": 114.114125,
+      "end": 114.5311875,
+      "asset": "f34_kazusa_lean",
+      "lyric": "baby",
+      "first_visible_pts": 1825826,
+      "frame_count": 10
+    },
+    {
+      "start": 121.2045625,
+      "end": 121.621625,
+      "asset": "f35_haruki_leave",
+      "lyric": "消えろ",
+      "first_visible_pts": 1939273,
+      "frame_count": 10
+    },
+    {
+      "start": 121.74675,
+      "end": 122.2055625,
+      "asset": "f36_setsuna_phone",
+      "lyric": "noisy",
+      "first_visible_pts": 1947948,
+      "frame_count": 11
+    },
+    {
+      "start": 122.3306875,
+      "end": 123.24825,
+      "asset": "f37_kazusa_solo",
+      "lyric": "minority",
+      "first_visible_pts": 1957291,
+      "frame_count": 22
+    }
+  ],
+  "remaining_assets": 0
+}

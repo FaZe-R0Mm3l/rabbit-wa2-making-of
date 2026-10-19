@@ -1,0 +1,521 @@
+{
+  "assets": [
+    {
+      "asset": "f11_rooftop",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f11_rooftop.png",
+      "source": "LOCAL_PATH/exec-53dfb9a8-faed-4a20-ac45-440b987277b3.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "e8ede298594d718e2d614661e56e97e14b24665058ad08a10460d390ac349ad9",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f12_classroom",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f12_classroom.png",
+      "source": "LOCAL_PATH/exec-9981697d-f1f4-4e97-8c41-8e51f6fffa03.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "c8c1e6bc848548a2732e842a4f4f137f85a992e271c2afde6b698ab78e647132",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f13_karaoke",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f13_karaoke.png",
+      "source": "LOCAL_PATH/exec-cee7a2f3-fc99-4b3b-b1c9-f4bd4f87af61.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "60e7bcf85f0fa8ab94bfd7c4ad5c0521f48509220af863b71cb5119828477073",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f14_sick",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f14_sick.png",
+      "source": "LOCAL_PATH/exec-aae70eca-10be-4e31-9ee0-c4f19ea34d62.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "2c796cee08daca36b1f614d08b4745402eb9b3e32121700967662e1a032a8109",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f15_depart_class",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f15_depart_class.png",
+      "source": "LOCAL_PATH/exec-e86d33d6-02b6-4b2c-afd5-cb4d1677331d.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "cc62a08591e1bd60cdc7eda2ff2afa75e51a04fe7df42c9be533d44a24244c61",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f16_haruki_guitar",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f16_haruki_guitar.png",
+      "source": "LOCAL_PATH/exec-5ef2a298-79b7-4ff8-9ebb-33c986d1d7fc.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "96c29251eb55e6ff98523a880a1f150893fde2e1334523b376efcf9d37741bb6",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f17_rehearsal",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f17_rehearsal.png",
+      "source": "LOCAL_PATH/exec-c70af74e-f941-4168-afcb-d448a0cad54c.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "cf25d2cdeb476fbbfa1293359f55dad208d66b2d437a0000bf91daed806d8925",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f21_festival",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f21_festival.png",
+      "source": "LOCAL_PATH/exec-f64e12fe-c647-46ad-875e-5a9e97f5a06b.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "17104d4085d8c14dce92d1c8a396175d06a90da5672a3e754c364c8982f08724",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f22_haruki_run",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f22_haruki_run.png",
+      "source": "LOCAL_PATH/exec-97eaa264-be5f-401e-9dd0-1a7c332a4e59.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "df7d83c60ed544660f1e6fdfe302530018a2bfd2052fc547304adc69168e7f34",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f23_christmas",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f23_christmas.png",
+      "source": "LOCAL_PATH/exec-b290a21a-75a3-44ef-ab65-22523e99afc4.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "ec671eb27ce10ad63e2fdf3a57781f43a2b3f5c3a29827f7d5a2ea3f941d3204",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f24_snow_cry",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f24_snow_cry.png",
+      "source": "LOCAL_PATH/exec-0909fdeb-3770-4254-82dc-502be49635db.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "64c45e5b2ba552da38773770b9d65271607c5880197ce09483763f05aaad3f84",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f25_airport_turn",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f25_airport_turn.png",
+      "source": "LOCAL_PATH/exec-d01c4321-d657-4a29-9084-bf73a74c1bb6.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "38cd46bafceb175e39657d4f84be7d87366f342ad262f719e354172d5c0914d1",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f26_stage_kazusa",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f26_stage_kazusa.png",
+      "source": "LOCAL_PATH/exec-d6327068-f6f1-4eb0-9cb9-5e93d4882209.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "832082efab1232276ac7e071fd25e311a2de755e3bf2f6c0e4bc2e2bba403ec6",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f27_airport_setsuna",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f27_airport_setsuna.png",
+      "source": "LOCAL_PATH/exec-37fac002-57e9-449f-841d-6cb18575c040.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "e5001c2cd5e7440c43e81b4659ae7f0eb50a5df05c1b6e96890dd5af03ab2b89",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f31_concert_bow",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f31_concert_bow.png",
+      "source": "LOCAL_PATH/exec-14add2b7-7916-400b-8a24-9c5e40385126.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "d2449738ddaf2ad25177139628afd2822c18bca24caf8577f0153a884071087d",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f32_forced_smile",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f32_forced_smile.png",
+      "source": "LOCAL_PATH/exec-55f8f93e-f534-4142-aec6-0155445273fb.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "7c9c91fe258ec09dcd4194d423a8d3d756422934b29493a22c9286ff883f8cdf",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f33_setsuna_hug",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f33_setsuna_hug.png",
+      "source": "LOCAL_PATH/exec-9b2306f8-5048-421e-a5ee-c38b049d4a96.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "2527a4f90cd63e8fb0d5c536fa48af65c67bd67e8a43d3ebbc9900922da8f0eb",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f34_kazusa_lean",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f34_kazusa_lean.png",
+      "source": "LOCAL_PATH/exec-b2cd4752-4d14-4ac3-9a77-c5aa7bd3769c.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "d8d2deede22a00344027fbd815dfcbe11889f45d0b1c50633f871342d5b8948d",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f35_haruki_leave",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f35_haruki_leave.png",
+      "source": "LOCAL_PATH/exec-233e1336-1063-49de-a299-d1aab3534078.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "c4c0358830d6db62acc4ffa81c209839cfb204a0de016f1383a44710cb679c30",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f36_setsuna_phone",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f36_setsuna_phone.png",
+      "source": "LOCAL_PATH/exec-60d7e40b-419b-42fe-89d5-a0853a085e2e.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "dcd32280e8355d613ae213ac9ff8227115d2da6067cfb0de212f7c2da54bbf15",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "f37_kazusa_solo",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\f37_kazusa_solo.png",
+      "source": "LOCAL_PATH/exec-72aea79b-6d29-413a-9734-cb910107ea04.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "0f32907b95e1038228f5ba635112cdebdc7bead2f61f183cb5c95a73e08217f7",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "m_haruki_grief",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\m_haruki_grief.png",
+      "source": "LOCAL_PATH/exec-3d56f70e-7138-4c74-8ac5-fd0dd6519288.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "aac9253e7639bd469cd2d8dedf458c6b828950498958123cb469b2c87617a90b",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "m_intro_setsuna",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\m_intro_setsuna.png",
+      "source": "LOCAL_PATH/exec-ab1a147d-9064-45d0-b7a8-514ce32b9e48.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "e541f04b2bb140c81c66a8f5eca4ad17f09ba6c13e9ee8db62dde0f2ac292dd1",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "m_kazusa_night",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\m_kazusa_night.png",
+      "source": "LOCAL_PATH/exec-1245760b-96a8-48f4-92fd-5ebff1686998.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "a3bfa6c1c28f46d33d86d89606bb3fa0a9ca9d712f73da073d2bf76aaead460b",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "m_kazusa_release",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\m_kazusa_release.png",
+      "source": "LOCAL_PATH/exec-4e9c2656-3a3f-48e2-bacd-66e952ca640f.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "b8d32bd3d44398890d09e760c82c45a916d7d45916199978f5b6e35303f36044",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    },
+    {
+      "asset": "m_setsuna_night",
+      "file": "PROJECT_ROOT\\outputs\\assets\\full_pv\\m_setsuna_night.png",
+      "source": "LOCAL_PATH/exec-7b2c4f0f-2c67-44bb-b976-a240ffaf037b.png",
+      "native_size": [
+        1672,
+        941
+      ],
+      "sha256": "60b85b9ad78332c451c1f5a70efc56150211f85dc47420662011c4ae2523f762",
+      "tool": "built-in image_gen",
+      "original_bytes_preserved": true
+    }
+  ],
+  "remaining_count": 0,
+  "prompts": [
+    {
+      "name": "f13_karaoke",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Setsuna Ogiso's karaoke CG pose. Chestnut twin tails with dark ribbons, white fitted cardigan over pale pink top and pink layered skirt. Joyful open singing mouth, silver microphone raised near her right shoulder, left arm extended with enthusiasm. Preserve her original game CG facial identity and energetic tilted pose, but set it upright for the horizontal canvas. Retain microphone, remove booth, UI and boy.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/karaoke.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f14_sick",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Kazusa Touma, IC sick-day vulnerable close-up, long straight blue-black hair with blunt bangs, cool blue eyes, simple buttoned white pajamas and a pink blanket pulled up to her collarbones, two hands gently gripping blanket. Fully covered shoulders/chest, tired eyes looking sideways toward viewer, small worried mouth. Head and shoulders in three-quarter view; one isolated girl with blanket edge, NO pillow/bed/room. This is a modest sick-day narrative reconstruction.",
+      "reference_files": [
+        "PROJECT_ROOT/work/touma_ref.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f15_depart_class",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Kazusa Touma leaving the classroom. Three-quarter back upper-thigh view, long straight blue-black hair and blunt bangs, navy school blazer, blue striped tie, blue plaid skirt, school bag held down in one hand, head turned slightly away left, cool withdrawn expression only partly visible. Keep bag. No door or desk.",
+      "reference_files": [
+        "PROJECT_ROOT/work/touma_ref.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f16_haruki_guitar",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Haruki Kitahara practicing guitar earnestly, recognizable short slightly messy black hair and gray-blue eyes, navy school blazer, white shirt, blue striped tie. Seated upper-thigh/waist portrait at slight diagonal, concentrating down at a dark blue electric guitar, left hand accurately on fretboard and right hand at strings. Retain the guitar only, no chair or room. Single boy.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/haruki_ref.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f17_rehearsal",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Setsuna Ogiso alone at rehearsal. Same white ruffled stage dress and long white gloves from game CG, chestnut twin tails with white ribbon accessories. Different pose: holding a microphone low against chest with both hands, shoulders close inward, glistening worried brown eyes looking a little off-camera, mouth closed. Clearly a lonely waiting rehearsal portrait, no smile, one girl, NO spotlight/backdrop.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/stage_setsuna.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f21_festival",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Faithful redraw of Setsuna's specific stage CG. White ruffled dress, long white gloves, chestnut twin tails, singing with eyes open and BOTH ARMS reaching toward audience, open palms beautifully foreshortened. Preserve the famous frontal pose and hopeful face. Keep only Setsuna, remove all blue stage lighting/backdrop.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/stage_setsuna.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f22_haruki_run",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Haruki Kitahara chasing after Kazusa in the snow-night storyline. Single boy in brown winter jacket over dark high-neck knit, short black hair, anxious breathless face, torso leaning forward in a running pose, one hand reaching forward and the other bent. His body at a diagonal, upper thighs visible, coat hem and hair lifted by motion. No snow or scenery in the asset.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/haruki_ref.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f23_christmas",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Extract the identity and cheerful playful expression of Setsuna, the brown-haired girl behind Kazusa in the reference game CG. Draw ONLY Setsuna in her cream-white winter coat over pink clothing, long chestnut twin tails with dark ribbons, head tilted, smiling brightly and making a playful two-finger V near her cheek. Upper-thigh portrait, slight relaxed sideways lean. No Kazusa, no car, no other people. Reinterpret this Christmas-trip playful moment as a standalone character pose.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/review_08.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f24_snow_cry",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Kazusa Touma in the IC snow-night confrontation. Draw ONLY Kazusa from the right side reference, navy school blazer, white collar, blue tie and long straight blue-black hair. New close-up emotional pose: eyes glossy with tears, mouth open in anguished confession, one hand clutching the front of her blazer, other arm held defensively across waist, hair swept sideways. No Haruki, no phone, no scenery.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/review_07.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f25_airport_turn",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Kazusa Touma in the airport farewell storyline. Isolate ONLY Kazusa: very long straight blue-black hair, dark school/winter jacket, plaid skirt, shoulder strap, half-turned away with tearful profile looking back over shoulder. One hand grips the strap. Upper thigh portrait. Departure and hesitation, no kiss, no embrace, no other person, no airport.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/review_05.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f26_stage_kazusa",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Kazusa Touma performing at the IC school festival, long straight blue-black hair with blunt bangs and serious concentrated blue eyes. Dark smart stage jacket over white shirt, blue necktie, holding and playing a dark electric bass guitar slanting across her torso; fingers accurately on frets and strings, three-quarter view, upper thigh crop. Dynamic performance portrait, keep instrument. No other people or stage.",
+      "reference_files": [
+        "PROJECT_ROOT/work/touma_ref.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f27_airport_setsuna",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Extract ONLY Setsuna at the right of the airport CG. Cream-white double-breasted winter coat over pink ruffled skirt, pink scarf, chestnut twin tails with dark bows. She stands very still with hands gently clasped low, brown eyes watching someone off to the left, a fragile closed-mouth expression and tears gathering without dramatic sobbing. Preserve the original game CG's isolated onlooker mood, upright upper-thigh composition. No embraced couple, no suitcase, no room.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/review_05.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f31_concert_bow",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Adult Coda-era Kazusa Touma at a piano concert curtain call, long straight blue-black hair, blunt bangs, recognizable blue eyes, elegant fully covering dark blue evening gown with modest neckline and short sleeves, no cleavage. Bowing gently in a three-quarter view, one hand near her heart, the other lowering the side of her gown, calm bittersweet smile. Upper thigh portrait with all head and hands visible. No flowers, no piano, no stage.",
+      "reference_files": [
+        "PROJECT_ROOT/work/touma_ref.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f32_forced_smile",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Extract ONLY adult Setsuna from the left of the reference game CG (Koharu route farewell). Pink cardigan over white high-neck top with pale blue bow, long chestnut hair in a high ponytail. Faithful closed-eye forced gentle smile, one hand raised in a small goodbye wave, the other held near her waist. Include waist/upper thighs. She is bravely sending Haruki away while concealing sadness. No Haruki, no window, no cafe. Preserve original face and pose.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/review_13.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f33_setsuna_hug",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Faithfully redraw the central embracing couple from this actual game CG, ONLY Setsuna and Haruki as one connected cutout. Chestnut twin-tail Setsuna facing viewer with fragile watery brown eyes, her arms around Haruki; Haruki's short black-haired head and dark winter coat face away from viewer. Retain fully clothed tender winter embrace and the two visible hands on his back. Medium bust/waist composition. No snow, buildings, trees or any scenery.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/hug_setsuna.jpg",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f34_kazusa_lean",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Faithfully isolate the central embracing couple in the reference Coda CG: adult Kazusa in dark coat and scarf leaning into Haruki, head against his shoulder, long blue-black hair tied back with a ribbon, one blue eye and her vulnerable expression visible; Haruki in a dark winter coat holding her protectively. Both fully clothed. Waist-up connected two-person cutout, gentle non-sexual embrace. No station, strangers or signs.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/review_52.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f35_haruki_leave",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Adult Haruki Kitahara leaving, three-quarter back waist/upper-thigh portrait, dark winter overcoat and plain scarf, short black hair, head slightly bowed, one hand holding a dark shoulder-bag strap, other arm hanging down. His face only a sliver in profile, remorseful reserved body language. Single boy, no people or scenery.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/haruki_ref.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f36_setsuna_phone",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Adult Setsuna Ogiso with long chestnut hair and brown eyes, pink cardigan over white high-neck top. Different close portrait, holding an early-2010s flip phone to her right ear with one hand, left hand lightly touches her chest. Eyes open glossy with a tear running down one cheek, lips barely parted, holding herself together. Upper-body centered isolated cutout. No room, no cake, no birthday imagery. Scene is a later-chapter emotional telephone call, not the discarded birthday concept.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/review_13.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f37_kazusa_solo",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Adult Kazusa Touma alone performing piano, long straight blue-black hair, blunt bangs, cool blue eyes lowered. Elegant modest dark navy concert dress. Strong left-facing profile/three-quarter upper-body portrait with both hands extended toward a short horizontal row of piano keys at bottom. Retain only a narrow keyboard edge attached to the pose, no whole piano. Quiet resolute melancholy. NO other person, no stage, no stool.",
+      "reference_files": [
+        "PROJECT_ROOT/work/touma_ref.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "m_intro_setsuna",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Setsuna Ogiso in navy school blazer and blue plaid skirt, recognizable long chestnut twin tails with small black bows. Turn her into a three-quarter BACK view facing slightly left, shoulders subtly hunched, head turning back only enough to show a small profile. BOTH hands clasp a white-paper-wrapped PURPLE rose bouquet BEHIND her lower back, bouquet clearly visible below waist. Upper-thigh framing, figure centered with room around long hair. Only girl and bouquet, truly transparent everywhere else.",
+      "reference_files": [
+        "PROJECT_ROOT/outputs/assets/setsuna_yellow_bouquet.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "m_setsuna_night",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Setsuna Ogiso's IC winter-night wistful profile. Long chestnut twin tails, warm brown eyes, cream-white coat and thick pale scarf. Half-body portrait, facing left in three-quarter profile, one hand gently holding scarf near neck, lips closed, soft lonely but composed eyes looking into distance. Wind gently lifts hair to the right. Only girl, no snow/scene.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/review_05.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "m_kazusa_night",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Isolate ONLY the Kazusa girl at the right of this snow-night game CG. Navy blazer, white collar, blue striped tie, long straight black-blue hair and blunt bangs. Half-body three-quarter facing left, hand holding a closed flip phone near chest, gaze lowered away as if avoiding Haruki, mouth tight and hesitant, cool blue eyes. Keep restrained standoff emotional posture, no tears yet. Only girl and phone, no other person.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/review_07.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "m_haruki_grief",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Haruki Kitahara in navy school blazer, white shirt and loosened blue striped tie, short black hair. Strong emotional medium portrait: torso bent forward, BOTH hands gripping his head at the temples and partly hiding his eyes, mouth tense, shoulders hunched with guilt. All fingers natural, hands clearly connected, head not cut off. Crop at waist, diagonal leaning silhouette, single boy.",
+      "reference_files": [
+        "PROJECT_ROOT/work/full_rebuild/refs/haruki_ref.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "m_kazusa_release",
+      "prompt": "Use case: illustration-story / game-CG hand-drawn reinterpretation. Create ONE isolated character layer for a WHITE ALBUM 2 music PV. Landscape 16:9 canvas, requested 1920x1080. Genuine transparent alpha background. Reference 1 provides the game character identity, canonical clothing and scene details; Reference 2 is ONLY the approved material/style. Rough scratchy dark pencil contours, colored-pencil crosshatching and dry chalk on coarse grain paper INSIDE the subject, flat pale skin, subtle cyan/yellow registration offsets. Match the approved rough handmade style, no glossy digital airbrush. Subject large and centered, waist/upper-thigh crop, face in upper middle, complete head and hands within canvas, modest transparent margins. No room, sky, scenery, stage backdrop, floor, frame, typography, logo, watermark, particles or snow. Outside the isolated human subject and specifically described held prop must have zero alpha. No extra people unless the prompt explicitly calls for two people. Fully clothed, non-sexual scene. Kazusa Touma in navy school blazer, white shirt, blue striped tie and plaid skirt. Final emotional release: torso in dramatic diagonal three-quarter view, head tipped back toward upper left with eyes closed and lips slightly parted, long straight blue-black hair flowing behind right, one palm raised and open toward viewer at lower right, other hand relaxed down near waist. Expression sorrow mixed with release. Upper thigh framing. Empty hands, no flowers, no props, no scenery.",
+      "reference_files": [
+        "PROJECT_ROOT/work/touma_ref.png",
+        "PROJECT_ROOT/outputs/assets/setsuna_1.png"
+      ]
+    },
+    {
+      "name": "f11_rooftop",
+      "record_type": "brief reconstructed from earlier generation; not exact original wording",
+      "prompt": "Extract only Setsuna and her flowing hair from the approved rooftop singing hand-drawn reference. Preserve pose, style and all character details; remove scenery to genuine transparent alpha."
+    },
+    {
+      "name": "f12_classroom",
+      "record_type": "brief reconstructed from earlier generation; not exact original wording",
+      "prompt": "Reinterpret Kazusa Touma classroom chin-on-hand game CG in approved rough colored-pencil paper style. One isolated fully clothed character, genuine transparent background; preserve identity and thoughtful pose."
+    }
+  ]
+}

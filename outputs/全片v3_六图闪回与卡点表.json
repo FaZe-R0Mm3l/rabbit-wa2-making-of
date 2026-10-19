@@ -1,0 +1,139 @@
+{
+  "output": "PROJECT_ROOT\\outputs\\rabbit_白色相簿2_全片_v3六图闪回版.mp4",
+  "six_flashbacks": [
+    {
+      "section": 0,
+      "attachment_index": 0,
+      "black_start": 33.9923125,
+      "visible_start": 34.1174375,
+      "visible_end": 34.5345625,
+      "audio_peak": 34.113015873015875,
+      "asset": "PROJECT_ROOT\\outputs\\assets\\full_revision_v3\\闪回1_雪菜舞台.png",
+      "offset_ms": 4.4216
+    },
+    {
+      "section": 0,
+      "attachment_index": 1,
+      "black_start": 34.5345625,
+      "visible_start": 34.6596875,
+      "visible_end": 35.07675,
+      "audio_peak": 34.658684807256236,
+      "asset": "PROJECT_ROOT\\outputs\\assets\\full_revision_v3\\闪回2_和纱钢琴.png",
+      "offset_ms": 1.0027
+    },
+    {
+      "section": 0,
+      "attachment_index": 2,
+      "black_start": 35.07675,
+      "visible_start": 35.201875,
+      "visible_end": 35.8691875,
+      "audio_peak": 35.2043537414966,
+      "asset": "PROJECT_ROOT\\outputs\\assets\\full_revision_v3\\闪回3_春希吉他.png",
+      "offset_ms": -2.4787
+    },
+    {
+      "section": 1,
+      "attachment_index": 3,
+      "black_start": 86.3363125,
+      "visible_start": 86.4614375,
+      "visible_end": 86.8785625,
+      "audio_peak": 86.47691609977325,
+      "asset": "PROJECT_ROOT\\outputs\\assets\\full_revision_v3\\闪回4_和纱抱毯.png",
+      "offset_ms": -15.4786
+    },
+    {
+      "section": 1,
+      "attachment_index": 4,
+      "black_start": 86.8785625,
+      "visible_start": 87.0036875,
+      "visible_end": 87.42075,
+      "audio_peak": 87.0225850340136,
+      "asset": "PROJECT_ROOT\\outputs\\assets\\full_revision_v3\\闪回5_雪菜电话.png",
+      "offset_ms": -18.8975
+    },
+    {
+      "section": 1,
+      "attachment_index": 5,
+      "black_start": 87.42075,
+      "visible_start": 87.545875,
+      "visible_end": 88.2131875,
+      "audio_peak": 87.5653514739229,
+      "asset": "PROJECT_ROOT\\outputs\\assets\\full_revision_v3\\闪回6_春希背影.png",
+      "offset_ms": -19.4765
+    }
+  ],
+  "changed_bridge_ranges": [
+    [
+      33.9089375,
+      35.8691875
+    ],
+    [
+      86.3363125,
+      88.2131875
+    ]
+  ],
+  "blue_bouquet_range": [
+    88.3383125,
+    92.7594375
+  ],
+  "blackout_frames_before_each_image": 3,
+  "assets": [
+    {
+      "source": "LOCAL_PATH/codex-clipboard-87a785ca-59df-410a-8bb0-863443f97001.png",
+      "copy": "PROJECT_ROOT\\outputs\\assets\\full_revision_v3\\闪回1_雪菜舞台.png",
+      "sha256": "17104d4085d8c14dce92d1c8a396175d06a90da5672a3e754c364c8982f08724",
+      "native_size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "source": "LOCAL_PATH/codex-clipboard-e1d10f16-123e-4038-af13-75bace037ff2.png",
+      "copy": "PROJECT_ROOT\\outputs\\assets\\full_revision_v3\\闪回2_和纱钢琴.png",
+      "sha256": "0f32907b95e1038228f5ba635112cdebdc7bead2f61f183cb5c95a73e08217f7",
+      "native_size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "source": "LOCAL_PATH/codex-clipboard-b52af3bb-83d7-460b-a773-6cbeb4dcda4f.png",
+      "copy": "PROJECT_ROOT\\outputs\\assets\\full_revision_v3\\闪回3_春希吉他.png",
+      "sha256": "96c29251eb55e6ff98523a880a1f150893fde2e1334523b376efcf9d37741bb6",
+      "native_size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "source": "LOCAL_PATH/codex-clipboard-156c39ae-2c9c-4758-830f-aec330632250.png",
+      "copy": "PROJECT_ROOT\\outputs\\assets\\full_revision_v3\\闪回4_和纱抱毯.png",
+      "sha256": "2c796cee08daca36b1f614d08b4745402eb9b3e32121700967662e1a032a8109",
+      "native_size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "source": "LOCAL_PATH/codex-clipboard-1bdbcd32-2c3d-4a5f-b56a-8c12388c2d89.png",
+      "copy": "PROJECT_ROOT\\outputs\\assets\\full_revision_v3\\闪回5_雪菜电话.png",
+      "sha256": "dcd32280e8355d613ae213ac9ff8227115d2da6067cfb0de212f7c2da54bbf15",
+      "native_size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "source": "LOCAL_PATH/codex-clipboard-4e6bc568-8e22-4356-9f95-6280409d15de.png",
+      "copy": "PROJECT_ROOT\\outputs\\assets\\full_revision_v3\\闪回6_春希背影.png",
+      "sha256": "c4c0358830d6db62acc4ffa81c209839cfb204a0de016f1383a44710cb679c30",
+      "native_size": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "audio": "original source AAC stream copy",
+  "rope_design": "discarded",
+  "image_policy": "copy2 byte-identical originals; native-pixel alpha compositing, no resampling"
+}

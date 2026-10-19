@@ -1,0 +1,33 @@
+{
+  "file": "PROJECT_ROOT\\outputs\\rabbit_关系破裂_手绘麻绳_v2样片.mp4",
+  "ranges": [
+    [
+      33.0330625,
+      36.7450625
+    ],
+    [
+      85.5021875,
+      89.7146875
+    ]
+  ],
+  "visual_hits": [
+    [
+      34.1174375,
+      34.6596875,
+      35.201875
+    ],
+    [
+      86.4614375,
+      87.0036875,
+      87.545875
+    ]
+  ],
+  "rope_texture": "PROJECT_ROOT\\outputs\\assets\\三色麻绳_手绘纹理_原图.png",
+  "rope_texture_sha256": "5d2c4f23eedea596c04446d8598d9ab86f8045826a273db10a49340fbdfc1cf5",
+  "texture_method": "native-pixel integer column translation and alpha compositing",
+  "full_width": true,
+  "original_images_modified": false,
+  "frames": 202,
+  "duration": 8.42475,
+  "audio_decoded_identical_to_previous_sample": true
+}

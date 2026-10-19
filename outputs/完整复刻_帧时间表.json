@@ -1,0 +1,4034 @@
+[
+  {
+    "source_pts": 527861,
+    "source_time": 32.9913125,
+    "output_pts": 0,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.0
+  },
+  {
+    "source_pts": 528529,
+    "source_time": 33.0330625,
+    "output_pts": 529,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.0330625
+  },
+  {
+    "source_pts": 529196,
+    "source_time": 33.07475,
+    "output_pts": 1196,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.07475
+  },
+  {
+    "source_pts": 529863,
+    "source_time": 33.1164375,
+    "output_pts": 1863,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.1164375
+  },
+  {
+    "source_pts": 530531,
+    "source_time": 33.1581875,
+    "output_pts": 2531,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.1581875
+  },
+  {
+    "source_pts": 531198,
+    "source_time": 33.199875,
+    "output_pts": 3198,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.199875
+  },
+  {
+    "source_pts": 531865,
+    "source_time": 33.2415625,
+    "output_pts": 3865,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.2415625
+  },
+  {
+    "source_pts": 532533,
+    "source_time": 33.2833125,
+    "output_pts": 4533,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.2833125
+  },
+  {
+    "source_pts": 533200,
+    "source_time": 33.325,
+    "output_pts": 5200,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.325
+  },
+  {
+    "source_pts": 533867,
+    "source_time": 33.3666875,
+    "output_pts": 5867,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.3666875
+  },
+  {
+    "source_pts": 534535,
+    "source_time": 33.4084375,
+    "output_pts": 6535,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.4084375
+  },
+  {
+    "source_pts": 535202,
+    "source_time": 33.450125,
+    "output_pts": 7202,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.450125
+  },
+  {
+    "source_pts": 535869,
+    "source_time": 33.4918125,
+    "output_pts": 7869,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.4918125
+  },
+  {
+    "source_pts": 536537,
+    "source_time": 33.5335625,
+    "output_pts": 8537,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.5335625
+  },
+  {
+    "source_pts": 537204,
+    "source_time": 33.57525,
+    "output_pts": 9204,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.57525
+  },
+  {
+    "source_pts": 537871,
+    "source_time": 33.6169375,
+    "output_pts": 9871,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.6169375
+  },
+  {
+    "source_pts": 538539,
+    "source_time": 33.6586875,
+    "output_pts": 10539,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.6586875
+  },
+  {
+    "source_pts": 539206,
+    "source_time": 33.700375,
+    "output_pts": 11206,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.700375
+  },
+  {
+    "source_pts": 539873,
+    "source_time": 33.7420625,
+    "output_pts": 11873,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.7420625
+  },
+  {
+    "source_pts": 540541,
+    "source_time": 33.7838125,
+    "output_pts": 12541,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.7838125
+  },
+  {
+    "source_pts": 541208,
+    "source_time": 33.8255,
+    "output_pts": 13208,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.8255
+  },
+  {
+    "source_pts": 541875,
+    "source_time": 33.8671875,
+    "output_pts": 13875,
+    "black": false,
+    "shot": "kazusa_piano_yellow",
+    "expected_seconds": 0.8671875
+  },
+  {
+    "source_pts": 542543,
+    "source_time": 33.9089375,
+    "output_pts": 14543,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 0.9089375
+  },
+  {
+    "source_pts": 543210,
+    "source_time": 33.950625,
+    "output_pts": 15210,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 0.950625
+  },
+  {
+    "source_pts": 543877,
+    "source_time": 33.9923125,
+    "output_pts": 15877,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 0.9923125
+  },
+  {
+    "source_pts": 544545,
+    "source_time": 34.0340625,
+    "output_pts": 16545,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.0340625
+  },
+  {
+    "source_pts": 545212,
+    "source_time": 34.07575,
+    "output_pts": 17212,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.07575
+  },
+  {
+    "source_pts": 545879,
+    "source_time": 34.1174375,
+    "output_pts": 17879,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.1174375
+  },
+  {
+    "source_pts": 546547,
+    "source_time": 34.1591875,
+    "output_pts": 18547,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.1591875
+  },
+  {
+    "source_pts": 547214,
+    "source_time": 34.200875,
+    "output_pts": 19214,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.200875
+  },
+  {
+    "source_pts": 547881,
+    "source_time": 34.2425625,
+    "output_pts": 19881,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.2425625
+  },
+  {
+    "source_pts": 548549,
+    "source_time": 34.2843125,
+    "output_pts": 20549,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.2843125
+  },
+  {
+    "source_pts": 549216,
+    "source_time": 34.326,
+    "output_pts": 21216,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 1.326
+  },
+  {
+    "source_pts": 549883,
+    "source_time": 34.3676875,
+    "output_pts": 21883,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 1.3676875
+  },
+  {
+    "source_pts": 550551,
+    "source_time": 34.4094375,
+    "output_pts": 22551,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 1.4094375
+  },
+  {
+    "source_pts": 551218,
+    "source_time": 34.451125,
+    "output_pts": 23218,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.451125
+  },
+  {
+    "source_pts": 551885,
+    "source_time": 34.4928125,
+    "output_pts": 23885,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.4928125
+  },
+  {
+    "source_pts": 552553,
+    "source_time": 34.5345625,
+    "output_pts": 24553,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.5345625
+  },
+  {
+    "source_pts": 553220,
+    "source_time": 34.57625,
+    "output_pts": 25220,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.57625
+  },
+  {
+    "source_pts": 553887,
+    "source_time": 34.6179375,
+    "output_pts": 25887,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.6179375
+  },
+  {
+    "source_pts": 554555,
+    "source_time": 34.6596875,
+    "output_pts": 26555,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.6596875
+  },
+  {
+    "source_pts": 555222,
+    "source_time": 34.701375,
+    "output_pts": 27222,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.701375
+  },
+  {
+    "source_pts": 555889,
+    "source_time": 34.7430625,
+    "output_pts": 27889,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.7430625
+  },
+  {
+    "source_pts": 556557,
+    "source_time": 34.7848125,
+    "output_pts": 28557,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.7848125
+  },
+  {
+    "source_pts": 557224,
+    "source_time": 34.8265,
+    "output_pts": 29224,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.8265
+  },
+  {
+    "source_pts": 557891,
+    "source_time": 34.8681875,
+    "output_pts": 29891,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.8681875
+  },
+  {
+    "source_pts": 558559,
+    "source_time": 34.9099375,
+    "output_pts": 30559,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 1.9099375
+  },
+  {
+    "source_pts": 559226,
+    "source_time": 34.951625,
+    "output_pts": 31226,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 1.951625
+  },
+  {
+    "source_pts": 559893,
+    "source_time": 34.9933125,
+    "output_pts": 31893,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 1.9933125
+  },
+  {
+    "source_pts": 560561,
+    "source_time": 35.0350625,
+    "output_pts": 32561,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 2.0350625
+  },
+  {
+    "source_pts": 561228,
+    "source_time": 35.07675,
+    "output_pts": 33228,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.07675
+  },
+  {
+    "source_pts": 561895,
+    "source_time": 35.1184375,
+    "output_pts": 33895,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.1184375
+  },
+  {
+    "source_pts": 562563,
+    "source_time": 35.1601875,
+    "output_pts": 34563,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.1601875
+  },
+  {
+    "source_pts": 563230,
+    "source_time": 35.201875,
+    "output_pts": 35230,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.201875
+  },
+  {
+    "source_pts": 563897,
+    "source_time": 35.2435625,
+    "output_pts": 35897,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.2435625
+  },
+  {
+    "source_pts": 564565,
+    "source_time": 35.2853125,
+    "output_pts": 36565,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.2853125
+  },
+  {
+    "source_pts": 565232,
+    "source_time": 35.327,
+    "output_pts": 37232,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.327
+  },
+  {
+    "source_pts": 565899,
+    "source_time": 35.3686875,
+    "output_pts": 37899,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.3686875
+  },
+  {
+    "source_pts": 566567,
+    "source_time": 35.4104375,
+    "output_pts": 38567,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.4104375
+  },
+  {
+    "source_pts": 567234,
+    "source_time": 35.452125,
+    "output_pts": 39234,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.452125
+  },
+  {
+    "source_pts": 567901,
+    "source_time": 35.4938125,
+    "output_pts": 39901,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.4938125
+  },
+  {
+    "source_pts": 568569,
+    "source_time": 35.5355625,
+    "output_pts": 40569,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.5355625
+  },
+  {
+    "source_pts": 569236,
+    "source_time": 35.57725,
+    "output_pts": 41236,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.57725
+  },
+  {
+    "source_pts": 569903,
+    "source_time": 35.6189375,
+    "output_pts": 41903,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.6189375
+  },
+  {
+    "source_pts": 570571,
+    "source_time": 35.6606875,
+    "output_pts": 42571,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.6606875
+  },
+  {
+    "source_pts": 571238,
+    "source_time": 35.702375,
+    "output_pts": 43238,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.702375
+  },
+  {
+    "source_pts": 571905,
+    "source_time": 35.7440625,
+    "output_pts": 43905,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.7440625
+  },
+  {
+    "source_pts": 572573,
+    "source_time": 35.7858125,
+    "output_pts": 44573,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.7858125
+  },
+  {
+    "source_pts": 573240,
+    "source_time": 35.8275,
+    "output_pts": 45240,
+    "black": false,
+    "shot": "piano_drop",
+    "expected_seconds": 2.8275
+  },
+  {
+    "source_pts": 573907,
+    "source_time": 35.8691875,
+    "output_pts": 45907,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 2.8691875
+  },
+  {
+    "source_pts": 574575,
+    "source_time": 35.9109375,
+    "output_pts": 46575,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 2.9109375
+  },
+  {
+    "source_pts": 575242,
+    "source_time": 35.952625,
+    "output_pts": 47242,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 2.952625
+  },
+  {
+    "source_pts": 575909,
+    "source_time": 35.9943125,
+    "output_pts": 47909,
+    "black": false,
+    "shot": "ink_flash",
+    "expected_seconds": 2.9943125
+  },
+  {
+    "source_pts": 576577,
+    "source_time": 36.0360625,
+    "output_pts": 48577,
+    "black": false,
+    "shot": "ink_flash",
+    "expected_seconds": 3.0360625
+  },
+  {
+    "source_pts": 577244,
+    "source_time": 36.07775,
+    "output_pts": 49244,
+    "black": false,
+    "shot": "ink_flash",
+    "expected_seconds": 3.07775
+  },
+  {
+    "source_pts": 577911,
+    "source_time": 36.1194375,
+    "output_pts": 49911,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.1194375
+  },
+  {
+    "source_pts": 578579,
+    "source_time": 36.1611875,
+    "output_pts": 50579,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.1611875
+  },
+  {
+    "source_pts": 579246,
+    "source_time": 36.202875,
+    "output_pts": 51246,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.202875
+  },
+  {
+    "source_pts": 579913,
+    "source_time": 36.2445625,
+    "output_pts": 51913,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.2445625
+  },
+  {
+    "source_pts": 580581,
+    "source_time": 36.2863125,
+    "output_pts": 52581,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.2863125
+  },
+  {
+    "source_pts": 581248,
+    "source_time": 36.328,
+    "output_pts": 53248,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.328
+  },
+  {
+    "source_pts": 581915,
+    "source_time": 36.3696875,
+    "output_pts": 53915,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.3696875
+  },
+  {
+    "source_pts": 582583,
+    "source_time": 36.4114375,
+    "output_pts": 54583,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.4114375
+  },
+  {
+    "source_pts": 583250,
+    "source_time": 36.453125,
+    "output_pts": 55250,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.453125
+  },
+  {
+    "source_pts": 583917,
+    "source_time": 36.4948125,
+    "output_pts": 55917,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.4948125
+  },
+  {
+    "source_pts": 584585,
+    "source_time": 36.5365625,
+    "output_pts": 56585,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.5365625
+  },
+  {
+    "source_pts": 585252,
+    "source_time": 36.57825,
+    "output_pts": 57252,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.57825
+  },
+  {
+    "source_pts": 585919,
+    "source_time": 36.6199375,
+    "output_pts": 57919,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.6199375
+  },
+  {
+    "source_pts": 586587,
+    "source_time": 36.6616875,
+    "output_pts": 58587,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.6616875
+  },
+  {
+    "source_pts": 587254,
+    "source_time": 36.703375,
+    "output_pts": 59254,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.703375
+  },
+  {
+    "source_pts": 587921,
+    "source_time": 36.7450625,
+    "output_pts": 59921,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.7450625
+  },
+  {
+    "source_pts": 588589,
+    "source_time": 36.7868125,
+    "output_pts": 60589,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.7868125
+  },
+  {
+    "source_pts": 589256,
+    "source_time": 36.8285,
+    "output_pts": 61256,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.8285
+  },
+  {
+    "source_pts": 589923,
+    "source_time": 36.8701875,
+    "output_pts": 61923,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.8701875
+  },
+  {
+    "source_pts": 590591,
+    "source_time": 36.9119375,
+    "output_pts": 62591,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.9119375
+  },
+  {
+    "source_pts": 591258,
+    "source_time": 36.953625,
+    "output_pts": 63258,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.953625
+  },
+  {
+    "source_pts": 591925,
+    "source_time": 36.9953125,
+    "output_pts": 63925,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 3.9953125
+  },
+  {
+    "source_pts": 592593,
+    "source_time": 37.0370625,
+    "output_pts": 64593,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.0370625
+  },
+  {
+    "source_pts": 593260,
+    "source_time": 37.07875,
+    "output_pts": 65260,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.07875
+  },
+  {
+    "source_pts": 593927,
+    "source_time": 37.1204375,
+    "output_pts": 65927,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.1204375
+  },
+  {
+    "source_pts": 594595,
+    "source_time": 37.1621875,
+    "output_pts": 66595,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.1621875
+  },
+  {
+    "source_pts": 595262,
+    "source_time": 37.203875,
+    "output_pts": 67262,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.203875
+  },
+  {
+    "source_pts": 595929,
+    "source_time": 37.2455625,
+    "output_pts": 67929,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.2455625
+  },
+  {
+    "source_pts": 596597,
+    "source_time": 37.2873125,
+    "output_pts": 68597,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.2873125
+  },
+  {
+    "source_pts": 597264,
+    "source_time": 37.329,
+    "output_pts": 69264,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.329
+  },
+  {
+    "source_pts": 597931,
+    "source_time": 37.3706875,
+    "output_pts": 69931,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.3706875
+  },
+  {
+    "source_pts": 598599,
+    "source_time": 37.4124375,
+    "output_pts": 70599,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.4124375
+  },
+  {
+    "source_pts": 599266,
+    "source_time": 37.454125,
+    "output_pts": 71266,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.454125
+  },
+  {
+    "source_pts": 599933,
+    "source_time": 37.4958125,
+    "output_pts": 71933,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.4958125
+  },
+  {
+    "source_pts": 600601,
+    "source_time": 37.5375625,
+    "output_pts": 72601,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.5375625
+  },
+  {
+    "source_pts": 601268,
+    "source_time": 37.57925,
+    "output_pts": 73268,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.57925
+  },
+  {
+    "source_pts": 601935,
+    "source_time": 37.6209375,
+    "output_pts": 73935,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.6209375
+  },
+  {
+    "source_pts": 602603,
+    "source_time": 37.6626875,
+    "output_pts": 74603,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.6626875
+  },
+  {
+    "source_pts": 603270,
+    "source_time": 37.704375,
+    "output_pts": 75270,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.704375
+  },
+  {
+    "source_pts": 603937,
+    "source_time": 37.7460625,
+    "output_pts": 75937,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.7460625
+  },
+  {
+    "source_pts": 604605,
+    "source_time": 37.7878125,
+    "output_pts": 76605,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.7878125
+  },
+  {
+    "source_pts": 605272,
+    "source_time": 37.8295,
+    "output_pts": 77272,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.8295
+  },
+  {
+    "source_pts": 605939,
+    "source_time": 37.8711875,
+    "output_pts": 77939,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.8711875
+  },
+  {
+    "source_pts": 606607,
+    "source_time": 37.9129375,
+    "output_pts": 78607,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.9129375
+  },
+  {
+    "source_pts": 607274,
+    "source_time": 37.954625,
+    "output_pts": 79274,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.954625
+  },
+  {
+    "source_pts": 607941,
+    "source_time": 37.9963125,
+    "output_pts": 79941,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 4.9963125
+  },
+  {
+    "source_pts": 608609,
+    "source_time": 38.0380625,
+    "output_pts": 80609,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.0380625
+  },
+  {
+    "source_pts": 609276,
+    "source_time": 38.07975,
+    "output_pts": 81276,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.07975
+  },
+  {
+    "source_pts": 609943,
+    "source_time": 38.1214375,
+    "output_pts": 81943,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.1214375
+  },
+  {
+    "source_pts": 610611,
+    "source_time": 38.1631875,
+    "output_pts": 82611,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.1631875
+  },
+  {
+    "source_pts": 611278,
+    "source_time": 38.204875,
+    "output_pts": 83278,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.204875
+  },
+  {
+    "source_pts": 611945,
+    "source_time": 38.2465625,
+    "output_pts": 83945,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.2465625
+  },
+  {
+    "source_pts": 612613,
+    "source_time": 38.2883125,
+    "output_pts": 84613,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.2883125
+  },
+  {
+    "source_pts": 613280,
+    "source_time": 38.33,
+    "output_pts": 85280,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.33
+  },
+  {
+    "source_pts": 613947,
+    "source_time": 38.3716875,
+    "output_pts": 85947,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.3716875
+  },
+  {
+    "source_pts": 614615,
+    "source_time": 38.4134375,
+    "output_pts": 86615,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.4134375
+  },
+  {
+    "source_pts": 615282,
+    "source_time": 38.455125,
+    "output_pts": 87282,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.455125
+  },
+  {
+    "source_pts": 615949,
+    "source_time": 38.4968125,
+    "output_pts": 87949,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.4968125
+  },
+  {
+    "source_pts": 616617,
+    "source_time": 38.5385625,
+    "output_pts": 88617,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.5385625
+  },
+  {
+    "source_pts": 617284,
+    "source_time": 38.58025,
+    "output_pts": 89284,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.58025
+  },
+  {
+    "source_pts": 617951,
+    "source_time": 38.6219375,
+    "output_pts": 89951,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.6219375
+  },
+  {
+    "source_pts": 618619,
+    "source_time": 38.6636875,
+    "output_pts": 90619,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.6636875
+  },
+  {
+    "source_pts": 619286,
+    "source_time": 38.705375,
+    "output_pts": 91286,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.705375
+  },
+  {
+    "source_pts": 619953,
+    "source_time": 38.7470625,
+    "output_pts": 91953,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.7470625
+  },
+  {
+    "source_pts": 620621,
+    "source_time": 38.7888125,
+    "output_pts": 92621,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.7888125
+  },
+  {
+    "source_pts": 621288,
+    "source_time": 38.8305,
+    "output_pts": 93288,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.8305
+  },
+  {
+    "source_pts": 621955,
+    "source_time": 38.8721875,
+    "output_pts": 93955,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.8721875
+  },
+  {
+    "source_pts": 622623,
+    "source_time": 38.9139375,
+    "output_pts": 94623,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.9139375
+  },
+  {
+    "source_pts": 623290,
+    "source_time": 38.955625,
+    "output_pts": 95290,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.955625
+  },
+  {
+    "source_pts": 623957,
+    "source_time": 38.9973125,
+    "output_pts": 95957,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 5.9973125
+  },
+  {
+    "source_pts": 624625,
+    "source_time": 39.0390625,
+    "output_pts": 96625,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.0390625
+  },
+  {
+    "source_pts": 625292,
+    "source_time": 39.08075,
+    "output_pts": 97292,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.08075
+  },
+  {
+    "source_pts": 625959,
+    "source_time": 39.1224375,
+    "output_pts": 97959,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.1224375
+  },
+  {
+    "source_pts": 626627,
+    "source_time": 39.1641875,
+    "output_pts": 98627,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.1641875
+  },
+  {
+    "source_pts": 627294,
+    "source_time": 39.205875,
+    "output_pts": 99294,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.205875
+  },
+  {
+    "source_pts": 627961,
+    "source_time": 39.2475625,
+    "output_pts": 99961,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.2475625
+  },
+  {
+    "source_pts": 628629,
+    "source_time": 39.2893125,
+    "output_pts": 100629,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.2893125
+  },
+  {
+    "source_pts": 629296,
+    "source_time": 39.331,
+    "output_pts": 101296,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.331
+  },
+  {
+    "source_pts": 629963,
+    "source_time": 39.3726875,
+    "output_pts": 101963,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.3726875
+  },
+  {
+    "source_pts": 630631,
+    "source_time": 39.4144375,
+    "output_pts": 102631,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.4144375
+  },
+  {
+    "source_pts": 631298,
+    "source_time": 39.456125,
+    "output_pts": 103298,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.456125
+  },
+  {
+    "source_pts": 631965,
+    "source_time": 39.4978125,
+    "output_pts": 103965,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.4978125
+  },
+  {
+    "source_pts": 632633,
+    "source_time": 39.5395625,
+    "output_pts": 104633,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.5395625
+  },
+  {
+    "source_pts": 633300,
+    "source_time": 39.58125,
+    "output_pts": 105300,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.58125
+  },
+  {
+    "source_pts": 633967,
+    "source_time": 39.6229375,
+    "output_pts": 105967,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.6229375
+  },
+  {
+    "source_pts": 634635,
+    "source_time": 39.6646875,
+    "output_pts": 106635,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.6646875
+  },
+  {
+    "source_pts": 635302,
+    "source_time": 39.706375,
+    "output_pts": 107302,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.706375
+  },
+  {
+    "source_pts": 635969,
+    "source_time": 39.7480625,
+    "output_pts": 107969,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.7480625
+  },
+  {
+    "source_pts": 636637,
+    "source_time": 39.7898125,
+    "output_pts": 108637,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.7898125
+  },
+  {
+    "source_pts": 637304,
+    "source_time": 39.8315,
+    "output_pts": 109304,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.8315
+  },
+  {
+    "source_pts": 637971,
+    "source_time": 39.8731875,
+    "output_pts": 109971,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.8731875
+  },
+  {
+    "source_pts": 638639,
+    "source_time": 39.9149375,
+    "output_pts": 110639,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.9149375
+  },
+  {
+    "source_pts": 639306,
+    "source_time": 39.956625,
+    "output_pts": 111306,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.956625
+  },
+  {
+    "source_pts": 639973,
+    "source_time": 39.9983125,
+    "output_pts": 111973,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 6.9983125
+  },
+  {
+    "source_pts": 640641,
+    "source_time": 40.0400625,
+    "output_pts": 112641,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.0400625
+  },
+  {
+    "source_pts": 641308,
+    "source_time": 40.08175,
+    "output_pts": 113308,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.08175
+  },
+  {
+    "source_pts": 641975,
+    "source_time": 40.1234375,
+    "output_pts": 113975,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.1234375
+  },
+  {
+    "source_pts": 642643,
+    "source_time": 40.1651875,
+    "output_pts": 114643,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.1651875
+  },
+  {
+    "source_pts": 643310,
+    "source_time": 40.206875,
+    "output_pts": 115310,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.206875
+  },
+  {
+    "source_pts": 643977,
+    "source_time": 40.2485625,
+    "output_pts": 115977,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.2485625
+  },
+  {
+    "source_pts": 644645,
+    "source_time": 40.2903125,
+    "output_pts": 116645,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.2903125
+  },
+  {
+    "source_pts": 645312,
+    "source_time": 40.332,
+    "output_pts": 117312,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.332
+  },
+  {
+    "source_pts": 645979,
+    "source_time": 40.3736875,
+    "output_pts": 117979,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.3736875
+  },
+  {
+    "source_pts": 646647,
+    "source_time": 40.4154375,
+    "output_pts": 118647,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.4154375
+  },
+  {
+    "source_pts": 647314,
+    "source_time": 40.457125,
+    "output_pts": 119314,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.457125
+  },
+  {
+    "source_pts": 647981,
+    "source_time": 40.4988125,
+    "output_pts": 119981,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.4988125
+  },
+  {
+    "source_pts": 648649,
+    "source_time": 40.5405625,
+    "output_pts": 120649,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.5405625
+  },
+  {
+    "source_pts": 649316,
+    "source_time": 40.58225,
+    "output_pts": 121316,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.58225
+  },
+  {
+    "source_pts": 649983,
+    "source_time": 40.6239375,
+    "output_pts": 121983,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.6239375
+  },
+  {
+    "source_pts": 650651,
+    "source_time": 40.6656875,
+    "output_pts": 122651,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.6656875
+  },
+  {
+    "source_pts": 651318,
+    "source_time": 40.707375,
+    "output_pts": 123318,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.707375
+  },
+  {
+    "source_pts": 651985,
+    "source_time": 40.7490625,
+    "output_pts": 123985,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.7490625
+  },
+  {
+    "source_pts": 652653,
+    "source_time": 40.7908125,
+    "output_pts": 124653,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.7908125
+  },
+  {
+    "source_pts": 653320,
+    "source_time": 40.8325,
+    "output_pts": 125320,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.8325
+  },
+  {
+    "source_pts": 653987,
+    "source_time": 40.8741875,
+    "output_pts": 125987,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.8741875
+  },
+  {
+    "source_pts": 654655,
+    "source_time": 40.9159375,
+    "output_pts": 126655,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.9159375
+  },
+  {
+    "source_pts": 655322,
+    "source_time": 40.957625,
+    "output_pts": 127322,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.957625
+  },
+  {
+    "source_pts": 655989,
+    "source_time": 40.9993125,
+    "output_pts": 127989,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 7.9993125
+  },
+  {
+    "source_pts": 656657,
+    "source_time": 41.0410625,
+    "output_pts": 128657,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.0410625
+  },
+  {
+    "source_pts": 657324,
+    "source_time": 41.08275,
+    "output_pts": 129324,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.08275
+  },
+  {
+    "source_pts": 657991,
+    "source_time": 41.1244375,
+    "output_pts": 129991,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.1244375
+  },
+  {
+    "source_pts": 658659,
+    "source_time": 41.1661875,
+    "output_pts": 130659,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.1661875
+  },
+  {
+    "source_pts": 659326,
+    "source_time": 41.207875,
+    "output_pts": 131326,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.207875
+  },
+  {
+    "source_pts": 659993,
+    "source_time": 41.2495625,
+    "output_pts": 131993,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.2495625
+  },
+  {
+    "source_pts": 660661,
+    "source_time": 41.2913125,
+    "output_pts": 132661,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.2913125
+  },
+  {
+    "source_pts": 661328,
+    "source_time": 41.333,
+    "output_pts": 133328,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.333
+  },
+  {
+    "source_pts": 661995,
+    "source_time": 41.3746875,
+    "output_pts": 133995,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.3746875
+  },
+  {
+    "source_pts": 662663,
+    "source_time": 41.4164375,
+    "output_pts": 134663,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.4164375
+  },
+  {
+    "source_pts": 663330,
+    "source_time": 41.458125,
+    "output_pts": 135330,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.458125
+  },
+  {
+    "source_pts": 663997,
+    "source_time": 41.4998125,
+    "output_pts": 135997,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.4998125
+  },
+  {
+    "source_pts": 664665,
+    "source_time": 41.5415625,
+    "output_pts": 136665,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.5415625
+  },
+  {
+    "source_pts": 665332,
+    "source_time": 41.58325,
+    "output_pts": 137332,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.58325
+  },
+  {
+    "source_pts": 665999,
+    "source_time": 41.6249375,
+    "output_pts": 137999,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.6249375
+  },
+  {
+    "source_pts": 666667,
+    "source_time": 41.6666875,
+    "output_pts": 138667,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.6666875
+  },
+  {
+    "source_pts": 667334,
+    "source_time": 41.708375,
+    "output_pts": 139334,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.708375
+  },
+  {
+    "source_pts": 668001,
+    "source_time": 41.7500625,
+    "output_pts": 140001,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.7500625
+  },
+  {
+    "source_pts": 668669,
+    "source_time": 41.7918125,
+    "output_pts": 140669,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.7918125
+  },
+  {
+    "source_pts": 669336,
+    "source_time": 41.8335,
+    "output_pts": 141336,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.8335
+  },
+  {
+    "source_pts": 670003,
+    "source_time": 41.8751875,
+    "output_pts": 142003,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.8751875
+  },
+  {
+    "source_pts": 670671,
+    "source_time": 41.9169375,
+    "output_pts": 142671,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.9169375
+  },
+  {
+    "source_pts": 671338,
+    "source_time": 41.958625,
+    "output_pts": 143338,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 8.958625
+  },
+  {
+    "source_pts": 672005,
+    "source_time": 42.0003125,
+    "output_pts": 144005,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.0003125
+  },
+  {
+    "source_pts": 672673,
+    "source_time": 42.0420625,
+    "output_pts": 144673,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.0420625
+  },
+  {
+    "source_pts": 673340,
+    "source_time": 42.08375,
+    "output_pts": 145340,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.08375
+  },
+  {
+    "source_pts": 674007,
+    "source_time": 42.1254375,
+    "output_pts": 146007,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.1254375
+  },
+  {
+    "source_pts": 674675,
+    "source_time": 42.1671875,
+    "output_pts": 146675,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.1671875
+  },
+  {
+    "source_pts": 675342,
+    "source_time": 42.208875,
+    "output_pts": 147342,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.208875
+  },
+  {
+    "source_pts": 676009,
+    "source_time": 42.2505625,
+    "output_pts": 148009,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.2505625
+  },
+  {
+    "source_pts": 676677,
+    "source_time": 42.2923125,
+    "output_pts": 148677,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.2923125
+  },
+  {
+    "source_pts": 677344,
+    "source_time": 42.334,
+    "output_pts": 149344,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.334
+  },
+  {
+    "source_pts": 678011,
+    "source_time": 42.3756875,
+    "output_pts": 150011,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.3756875
+  },
+  {
+    "source_pts": 678679,
+    "source_time": 42.4174375,
+    "output_pts": 150679,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.4174375
+  },
+  {
+    "source_pts": 679346,
+    "source_time": 42.459125,
+    "output_pts": 151346,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.459125
+  },
+  {
+    "source_pts": 680013,
+    "source_time": 42.5008125,
+    "output_pts": 152013,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.5008125
+  },
+  {
+    "source_pts": 680681,
+    "source_time": 42.5425625,
+    "output_pts": 152681,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.5425625
+  },
+  {
+    "source_pts": 681348,
+    "source_time": 42.58425,
+    "output_pts": 153348,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.58425
+  },
+  {
+    "source_pts": 682015,
+    "source_time": 42.6259375,
+    "output_pts": 154015,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.6259375
+  },
+  {
+    "source_pts": 682683,
+    "source_time": 42.6676875,
+    "output_pts": 154683,
+    "black": false,
+    "shot": "setsuna_bouquet_teal",
+    "expected_seconds": 9.6676875
+  },
+  {
+    "source_pts": 683350,
+    "source_time": 42.709375,
+    "output_pts": 155350,
+    "black": false,
+    "shot": "setsuna_1",
+    "expected_seconds": 9.709375
+  },
+  {
+    "source_pts": 684017,
+    "source_time": 42.7510625,
+    "output_pts": 156017,
+    "black": false,
+    "shot": "setsuna_1",
+    "expected_seconds": 9.7510625
+  },
+  {
+    "source_pts": 684685,
+    "source_time": 42.7928125,
+    "output_pts": 156685,
+    "black": false,
+    "shot": "setsuna_1",
+    "expected_seconds": 9.7928125
+  },
+  {
+    "source_pts": 685352,
+    "source_time": 42.8345,
+    "output_pts": 157352,
+    "black": false,
+    "shot": "setsuna_1",
+    "expected_seconds": 9.8345
+  },
+  {
+    "source_pts": 686019,
+    "source_time": 42.8761875,
+    "output_pts": 158019,
+    "black": false,
+    "shot": "setsuna_1",
+    "expected_seconds": 9.8761875
+  },
+  {
+    "source_pts": 686687,
+    "source_time": 42.9179375,
+    "output_pts": 158687,
+    "black": false,
+    "shot": "setsuna_1",
+    "expected_seconds": 9.9179375
+  },
+  {
+    "source_pts": 687354,
+    "source_time": 42.959625,
+    "output_pts": 159354,
+    "black": false,
+    "shot": "setsuna_1",
+    "expected_seconds": 9.959625
+  },
+  {
+    "source_pts": 688021,
+    "source_time": 43.0013125,
+    "output_pts": 160021,
+    "black": false,
+    "shot": "setsuna_1",
+    "expected_seconds": 10.0013125
+  },
+  {
+    "source_pts": 688689,
+    "source_time": 43.0430625,
+    "output_pts": 160689,
+    "black": false,
+    "shot": "setsuna_1",
+    "expected_seconds": 10.0430625
+  },
+  {
+    "source_pts": 689356,
+    "source_time": 43.08475,
+    "output_pts": 161356,
+    "black": false,
+    "shot": "setsuna_1",
+    "expected_seconds": 10.08475
+  },
+  {
+    "source_pts": 690023,
+    "source_time": 43.1264375,
+    "output_pts": 162023,
+    "black": false,
+    "shot": "setsuna_1",
+    "expected_seconds": 10.1264375
+  },
+  {
+    "source_pts": 690691,
+    "source_time": 43.1681875,
+    "output_pts": 162691,
+    "black": false,
+    "shot": "setsuna_1",
+    "expected_seconds": 10.1681875
+  },
+  {
+    "source_pts": 691358,
+    "source_time": 43.209875,
+    "output_pts": 163358,
+    "black": false,
+    "shot": "setsuna_1",
+    "expected_seconds": 10.209875
+  },
+  {
+    "source_pts": 692025,
+    "source_time": 43.2515625,
+    "output_pts": 164025,
+    "black": false,
+    "shot": "setsuna_1",
+    "expected_seconds": 10.2515625
+  },
+  {
+    "source_pts": 692693,
+    "source_time": 43.2933125,
+    "output_pts": 164693,
+    "black": false,
+    "shot": "kazusa_1",
+    "expected_seconds": 10.2933125
+  },
+  {
+    "source_pts": 693360,
+    "source_time": 43.335,
+    "output_pts": 165360,
+    "black": false,
+    "shot": "kazusa_1",
+    "expected_seconds": 10.335
+  },
+  {
+    "source_pts": 694027,
+    "source_time": 43.3766875,
+    "output_pts": 166027,
+    "black": false,
+    "shot": "kazusa_1",
+    "expected_seconds": 10.3766875
+  },
+  {
+    "source_pts": 694695,
+    "source_time": 43.4184375,
+    "output_pts": 166695,
+    "black": false,
+    "shot": "kazusa_1",
+    "expected_seconds": 10.4184375
+  },
+  {
+    "source_pts": 695362,
+    "source_time": 43.460125,
+    "output_pts": 167362,
+    "black": false,
+    "shot": "kazusa_1",
+    "expected_seconds": 10.460125
+  },
+  {
+    "source_pts": 696029,
+    "source_time": 43.5018125,
+    "output_pts": 168029,
+    "black": false,
+    "shot": "kazusa_1",
+    "expected_seconds": 10.5018125
+  },
+  {
+    "source_pts": 696697,
+    "source_time": 43.5435625,
+    "output_pts": 168697,
+    "black": false,
+    "shot": "kazusa_1",
+    "expected_seconds": 10.5435625
+  },
+  {
+    "source_pts": 697364,
+    "source_time": 43.58525,
+    "output_pts": 169364,
+    "black": false,
+    "shot": "kazusa_1",
+    "expected_seconds": 10.58525
+  },
+  {
+    "source_pts": 698031,
+    "source_time": 43.6269375,
+    "output_pts": 170031,
+    "black": false,
+    "shot": "kazusa_1",
+    "expected_seconds": 10.6269375
+  },
+  {
+    "source_pts": 698699,
+    "source_time": 43.6686875,
+    "output_pts": 170699,
+    "black": false,
+    "shot": "kazusa_1",
+    "expected_seconds": 10.6686875
+  },
+  {
+    "source_pts": 699366,
+    "source_time": 43.710375,
+    "output_pts": 171366,
+    "black": false,
+    "shot": "kazusa_1",
+    "expected_seconds": 10.710375
+  },
+  {
+    "source_pts": 700033,
+    "source_time": 43.7520625,
+    "output_pts": 172033,
+    "black": false,
+    "shot": "setsuna_2",
+    "expected_seconds": 10.7520625
+  },
+  {
+    "source_pts": 700701,
+    "source_time": 43.7938125,
+    "output_pts": 172701,
+    "black": false,
+    "shot": "setsuna_2",
+    "expected_seconds": 10.7938125
+  },
+  {
+    "source_pts": 701368,
+    "source_time": 43.8355,
+    "output_pts": 173368,
+    "black": false,
+    "shot": "setsuna_2",
+    "expected_seconds": 10.8355
+  },
+  {
+    "source_pts": 702035,
+    "source_time": 43.8771875,
+    "output_pts": 174035,
+    "black": false,
+    "shot": "setsuna_2",
+    "expected_seconds": 10.8771875
+  },
+  {
+    "source_pts": 702703,
+    "source_time": 43.9189375,
+    "output_pts": 174703,
+    "black": false,
+    "shot": "setsuna_2",
+    "expected_seconds": 10.9189375
+  },
+  {
+    "source_pts": 703370,
+    "source_time": 43.960625,
+    "output_pts": 175370,
+    "black": false,
+    "shot": "setsuna_2",
+    "expected_seconds": 10.960625
+  },
+  {
+    "source_pts": 704037,
+    "source_time": 44.0023125,
+    "output_pts": 176037,
+    "black": false,
+    "shot": "setsuna_2",
+    "expected_seconds": 11.0023125
+  },
+  {
+    "source_pts": 704705,
+    "source_time": 44.0440625,
+    "output_pts": 176705,
+    "black": false,
+    "shot": "setsuna_2",
+    "expected_seconds": 11.0440625
+  },
+  {
+    "source_pts": 705372,
+    "source_time": 44.08575,
+    "output_pts": 177372,
+    "black": false,
+    "shot": "setsuna_2",
+    "expected_seconds": 11.08575
+  },
+  {
+    "source_pts": 706039,
+    "source_time": 44.1274375,
+    "output_pts": 178039,
+    "black": false,
+    "shot": "setsuna_2",
+    "expected_seconds": 11.1274375
+  },
+  {
+    "source_pts": 706707,
+    "source_time": 44.1691875,
+    "output_pts": 178707,
+    "black": false,
+    "shot": "setsuna_2",
+    "expected_seconds": 11.1691875
+  },
+  {
+    "source_pts": 707374,
+    "source_time": 44.210875,
+    "output_pts": 179374,
+    "black": false,
+    "shot": "setsuna_2",
+    "expected_seconds": 11.210875
+  },
+  {
+    "source_pts": 708041,
+    "source_time": 44.2525625,
+    "output_pts": 180041,
+    "black": false,
+    "shot": "setsuna_2",
+    "expected_seconds": 11.2525625
+  },
+  {
+    "source_pts": 708709,
+    "source_time": 44.2943125,
+    "output_pts": 180709,
+    "black": false,
+    "shot": "setsuna_2",
+    "expected_seconds": 11.2943125
+  },
+  {
+    "source_pts": 709376,
+    "source_time": 44.336,
+    "output_pts": 181376,
+    "black": false,
+    "shot": "kazusa_2",
+    "expected_seconds": 11.336
+  },
+  {
+    "source_pts": 710043,
+    "source_time": 44.3776875,
+    "output_pts": 182043,
+    "black": false,
+    "shot": "kazusa_2",
+    "expected_seconds": 11.3776875
+  },
+  {
+    "source_pts": 710711,
+    "source_time": 44.4194375,
+    "output_pts": 182711,
+    "black": false,
+    "shot": "kazusa_2",
+    "expected_seconds": 11.4194375
+  },
+  {
+    "source_pts": 711378,
+    "source_time": 44.461125,
+    "output_pts": 183378,
+    "black": false,
+    "shot": "kazusa_2",
+    "expected_seconds": 11.461125
+  },
+  {
+    "source_pts": 712045,
+    "source_time": 44.5028125,
+    "output_pts": 184045,
+    "black": false,
+    "shot": "kazusa_2",
+    "expected_seconds": 11.5028125
+  },
+  {
+    "source_pts": 712713,
+    "source_time": 44.5445625,
+    "output_pts": 184713,
+    "black": false,
+    "shot": "kazusa_2",
+    "expected_seconds": 11.5445625
+  },
+  {
+    "source_pts": 713380,
+    "source_time": 44.58625,
+    "output_pts": 185380,
+    "black": false,
+    "shot": "kazusa_2",
+    "expected_seconds": 11.58625
+  },
+  {
+    "source_pts": 714047,
+    "source_time": 44.6279375,
+    "output_pts": 186047,
+    "black": false,
+    "shot": "kazusa_2",
+    "expected_seconds": 11.6279375
+  },
+  {
+    "source_pts": 714715,
+    "source_time": 44.6696875,
+    "output_pts": 186715,
+    "black": false,
+    "shot": "kazusa_2",
+    "expected_seconds": 11.6696875
+  },
+  {
+    "source_pts": 715382,
+    "source_time": 44.711375,
+    "output_pts": 187382,
+    "black": false,
+    "shot": "kazusa_2",
+    "expected_seconds": 11.711375
+  },
+  {
+    "source_pts": 716049,
+    "source_time": 44.7530625,
+    "output_pts": 188049,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 11.7530625
+  },
+  {
+    "source_pts": 716717,
+    "source_time": 44.7948125,
+    "output_pts": 188717,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 11.7948125
+  },
+  {
+    "source_pts": 717384,
+    "source_time": 44.8365,
+    "output_pts": 189384,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 11.8365
+  },
+  {
+    "source_pts": 718051,
+    "source_time": 44.8781875,
+    "output_pts": 190051,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 11.8781875
+  },
+  {
+    "source_pts": 718719,
+    "source_time": 44.9199375,
+    "output_pts": 190719,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 11.9199375
+  },
+  {
+    "source_pts": 719386,
+    "source_time": 44.961625,
+    "output_pts": 191386,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 11.961625
+  },
+  {
+    "source_pts": 720053,
+    "source_time": 45.0033125,
+    "output_pts": 192053,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.0033125
+  },
+  {
+    "source_pts": 720721,
+    "source_time": 45.0450625,
+    "output_pts": 192721,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.0450625
+  },
+  {
+    "source_pts": 721388,
+    "source_time": 45.08675,
+    "output_pts": 193388,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.08675
+  },
+  {
+    "source_pts": 722055,
+    "source_time": 45.1284375,
+    "output_pts": 194055,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.1284375
+  },
+  {
+    "source_pts": 722723,
+    "source_time": 45.1701875,
+    "output_pts": 194723,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.1701875
+  },
+  {
+    "source_pts": 723390,
+    "source_time": 45.211875,
+    "output_pts": 195390,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.211875
+  },
+  {
+    "source_pts": 724057,
+    "source_time": 45.2535625,
+    "output_pts": 196057,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.2535625
+  },
+  {
+    "source_pts": 724725,
+    "source_time": 45.2953125,
+    "output_pts": 196725,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.2953125
+  },
+  {
+    "source_pts": 725392,
+    "source_time": 45.337,
+    "output_pts": 197392,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.337
+  },
+  {
+    "source_pts": 726059,
+    "source_time": 45.3786875,
+    "output_pts": 198059,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.3786875
+  },
+  {
+    "source_pts": 726727,
+    "source_time": 45.4204375,
+    "output_pts": 198727,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.4204375
+  },
+  {
+    "source_pts": 727394,
+    "source_time": 45.462125,
+    "output_pts": 199394,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.462125
+  },
+  {
+    "source_pts": 728061,
+    "source_time": 45.5038125,
+    "output_pts": 200061,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.5038125
+  },
+  {
+    "source_pts": 728729,
+    "source_time": 45.5455625,
+    "output_pts": 200729,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.5455625
+  },
+  {
+    "source_pts": 729396,
+    "source_time": 45.58725,
+    "output_pts": 201396,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.58725
+  },
+  {
+    "source_pts": 730063,
+    "source_time": 45.6289375,
+    "output_pts": 202063,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.6289375
+  },
+  {
+    "source_pts": 730731,
+    "source_time": 45.6706875,
+    "output_pts": 202731,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.6706875
+  },
+  {
+    "source_pts": 731398,
+    "source_time": 45.712375,
+    "output_pts": 203398,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.712375
+  },
+  {
+    "source_pts": 732065,
+    "source_time": 45.7540625,
+    "output_pts": 204065,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.7540625
+  },
+  {
+    "source_pts": 732733,
+    "source_time": 45.7958125,
+    "output_pts": 204733,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.7958125
+  },
+  {
+    "source_pts": 733400,
+    "source_time": 45.8375,
+    "output_pts": 205400,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.8375
+  },
+  {
+    "source_pts": 734067,
+    "source_time": 45.8791875,
+    "output_pts": 206067,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.8791875
+  },
+  {
+    "source_pts": 734735,
+    "source_time": 45.9209375,
+    "output_pts": 206735,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.9209375
+  },
+  {
+    "source_pts": 735402,
+    "source_time": 45.962625,
+    "output_pts": 207402,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 12.962625
+  },
+  {
+    "source_pts": 736069,
+    "source_time": 46.0043125,
+    "output_pts": 208069,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.0043125
+  },
+  {
+    "source_pts": 736737,
+    "source_time": 46.0460625,
+    "output_pts": 208737,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.0460625
+  },
+  {
+    "source_pts": 737404,
+    "source_time": 46.08775,
+    "output_pts": 209404,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.08775
+  },
+  {
+    "source_pts": 738071,
+    "source_time": 46.1294375,
+    "output_pts": 210071,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.1294375
+  },
+  {
+    "source_pts": 738739,
+    "source_time": 46.1711875,
+    "output_pts": 210739,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.1711875
+  },
+  {
+    "source_pts": 739406,
+    "source_time": 46.212875,
+    "output_pts": 211406,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.212875
+  },
+  {
+    "source_pts": 740073,
+    "source_time": 46.2545625,
+    "output_pts": 212073,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.2545625
+  },
+  {
+    "source_pts": 740741,
+    "source_time": 46.2963125,
+    "output_pts": 212741,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.2963125
+  },
+  {
+    "source_pts": 741408,
+    "source_time": 46.338,
+    "output_pts": 213408,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.338
+  },
+  {
+    "source_pts": 742075,
+    "source_time": 46.3796875,
+    "output_pts": 214075,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.3796875
+  },
+  {
+    "source_pts": 742743,
+    "source_time": 46.4214375,
+    "output_pts": 214743,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.4214375
+  },
+  {
+    "source_pts": 743410,
+    "source_time": 46.463125,
+    "output_pts": 215410,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.463125
+  },
+  {
+    "source_pts": 744077,
+    "source_time": 46.5048125,
+    "output_pts": 216077,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.5048125
+  },
+  {
+    "source_pts": 744745,
+    "source_time": 46.5465625,
+    "output_pts": 216745,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.5465625
+  },
+  {
+    "source_pts": 745412,
+    "source_time": 46.58825,
+    "output_pts": 217412,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.58825
+  },
+  {
+    "source_pts": 746079,
+    "source_time": 46.6299375,
+    "output_pts": 218079,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.6299375
+  },
+  {
+    "source_pts": 746747,
+    "source_time": 46.6716875,
+    "output_pts": 218747,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.6716875
+  },
+  {
+    "source_pts": 747414,
+    "source_time": 46.713375,
+    "output_pts": 219414,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.713375
+  },
+  {
+    "source_pts": 748081,
+    "source_time": 46.7550625,
+    "output_pts": 220081,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.7550625
+  },
+  {
+    "source_pts": 748749,
+    "source_time": 46.7968125,
+    "output_pts": 220749,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.7968125
+  },
+  {
+    "source_pts": 749416,
+    "source_time": 46.8385,
+    "output_pts": 221416,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.8385
+  },
+  {
+    "source_pts": 750083,
+    "source_time": 46.8801875,
+    "output_pts": 222083,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.8801875
+  },
+  {
+    "source_pts": 750751,
+    "source_time": 46.9219375,
+    "output_pts": 222751,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.9219375
+  },
+  {
+    "source_pts": 751418,
+    "source_time": 46.963625,
+    "output_pts": 223418,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 13.963625
+  },
+  {
+    "source_pts": 752085,
+    "source_time": 47.0053125,
+    "output_pts": 224085,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.0053125
+  },
+  {
+    "source_pts": 752753,
+    "source_time": 47.0470625,
+    "output_pts": 224753,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.0470625
+  },
+  {
+    "source_pts": 753420,
+    "source_time": 47.08875,
+    "output_pts": 225420,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.08875
+  },
+  {
+    "source_pts": 754087,
+    "source_time": 47.1304375,
+    "output_pts": 226087,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.1304375
+  },
+  {
+    "source_pts": 754755,
+    "source_time": 47.1721875,
+    "output_pts": 226755,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.1721875
+  },
+  {
+    "source_pts": 755422,
+    "source_time": 47.213875,
+    "output_pts": 227422,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.213875
+  },
+  {
+    "source_pts": 756089,
+    "source_time": 47.2555625,
+    "output_pts": 228089,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.2555625
+  },
+  {
+    "source_pts": 756757,
+    "source_time": 47.2973125,
+    "output_pts": 228757,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.2973125
+  },
+  {
+    "source_pts": 757424,
+    "source_time": 47.339,
+    "output_pts": 229424,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.339
+  },
+  {
+    "source_pts": 758091,
+    "source_time": 47.3806875,
+    "output_pts": 230091,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.3806875
+  },
+  {
+    "source_pts": 758759,
+    "source_time": 47.4224375,
+    "output_pts": 230759,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.4224375
+  },
+  {
+    "source_pts": 759426,
+    "source_time": 47.464125,
+    "output_pts": 231426,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.464125
+  },
+  {
+    "source_pts": 760093,
+    "source_time": 47.5058125,
+    "output_pts": 232093,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.5058125
+  },
+  {
+    "source_pts": 760761,
+    "source_time": 47.5475625,
+    "output_pts": 232761,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.5475625
+  },
+  {
+    "source_pts": 761428,
+    "source_time": 47.58925,
+    "output_pts": 233428,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.58925
+  },
+  {
+    "source_pts": 762095,
+    "source_time": 47.6309375,
+    "output_pts": 234095,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.6309375
+  },
+  {
+    "source_pts": 762763,
+    "source_time": 47.6726875,
+    "output_pts": 234763,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.6726875
+  },
+  {
+    "source_pts": 763430,
+    "source_time": 47.714375,
+    "output_pts": 235430,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.714375
+  },
+  {
+    "source_pts": 764097,
+    "source_time": 47.7560625,
+    "output_pts": 236097,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.7560625
+  },
+  {
+    "source_pts": 764765,
+    "source_time": 47.7978125,
+    "output_pts": 236765,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.7978125
+  },
+  {
+    "source_pts": 765432,
+    "source_time": 47.8395,
+    "output_pts": 237432,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.8395
+  },
+  {
+    "source_pts": 766099,
+    "source_time": 47.8811875,
+    "output_pts": 238099,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.8811875
+  },
+  {
+    "source_pts": 766767,
+    "source_time": 47.9229375,
+    "output_pts": 238767,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.9229375
+  },
+  {
+    "source_pts": 767434,
+    "source_time": 47.964625,
+    "output_pts": 239434,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 14.964625
+  },
+  {
+    "source_pts": 768101,
+    "source_time": 48.0063125,
+    "output_pts": 240101,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.0063125
+  },
+  {
+    "source_pts": 768769,
+    "source_time": 48.0480625,
+    "output_pts": 240769,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.0480625
+  },
+  {
+    "source_pts": 769436,
+    "source_time": 48.08975,
+    "output_pts": 241436,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.08975
+  },
+  {
+    "source_pts": 770103,
+    "source_time": 48.1314375,
+    "output_pts": 242103,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.1314375
+  },
+  {
+    "source_pts": 770771,
+    "source_time": 48.1731875,
+    "output_pts": 242771,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.1731875
+  },
+  {
+    "source_pts": 771438,
+    "source_time": 48.214875,
+    "output_pts": 243438,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.214875
+  },
+  {
+    "source_pts": 772105,
+    "source_time": 48.2565625,
+    "output_pts": 244105,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.2565625
+  },
+  {
+    "source_pts": 772773,
+    "source_time": 48.2983125,
+    "output_pts": 244773,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.2983125
+  },
+  {
+    "source_pts": 773440,
+    "source_time": 48.34,
+    "output_pts": 245440,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.34
+  },
+  {
+    "source_pts": 774107,
+    "source_time": 48.3816875,
+    "output_pts": 246107,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.3816875
+  },
+  {
+    "source_pts": 774775,
+    "source_time": 48.4234375,
+    "output_pts": 246775,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.4234375
+  },
+  {
+    "source_pts": 775442,
+    "source_time": 48.465125,
+    "output_pts": 247442,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.465125
+  },
+  {
+    "source_pts": 776109,
+    "source_time": 48.5068125,
+    "output_pts": 248109,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.5068125
+  },
+  {
+    "source_pts": 776777,
+    "source_time": 48.5485625,
+    "output_pts": 248777,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.5485625
+  },
+  {
+    "source_pts": 777444,
+    "source_time": 48.59025,
+    "output_pts": 249444,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.59025
+  },
+  {
+    "source_pts": 778111,
+    "source_time": 48.6319375,
+    "output_pts": 250111,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.6319375
+  },
+  {
+    "source_pts": 778779,
+    "source_time": 48.6736875,
+    "output_pts": 250779,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.6736875
+  },
+  {
+    "source_pts": 779446,
+    "source_time": 48.715375,
+    "output_pts": 251446,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.715375
+  },
+  {
+    "source_pts": 780113,
+    "source_time": 48.7570625,
+    "output_pts": 252113,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.7570625
+  },
+  {
+    "source_pts": 780781,
+    "source_time": 48.7988125,
+    "output_pts": 252781,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.7988125
+  },
+  {
+    "source_pts": 781448,
+    "source_time": 48.8405,
+    "output_pts": 253448,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.8405
+  },
+  {
+    "source_pts": 782115,
+    "source_time": 48.8821875,
+    "output_pts": 254115,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.8821875
+  },
+  {
+    "source_pts": 782783,
+    "source_time": 48.9239375,
+    "output_pts": 254783,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.9239375
+  },
+  {
+    "source_pts": 783450,
+    "source_time": 48.965625,
+    "output_pts": 255450,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 15.965625
+  },
+  {
+    "source_pts": 784117,
+    "source_time": 49.0073125,
+    "output_pts": 256117,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.0073125
+  },
+  {
+    "source_pts": 784785,
+    "source_time": 49.0490625,
+    "output_pts": 256785,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.0490625
+  },
+  {
+    "source_pts": 785452,
+    "source_time": 49.09075,
+    "output_pts": 257452,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.09075
+  },
+  {
+    "source_pts": 786119,
+    "source_time": 49.1324375,
+    "output_pts": 258119,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.1324375
+  },
+  {
+    "source_pts": 786787,
+    "source_time": 49.1741875,
+    "output_pts": 258787,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.1741875
+  },
+  {
+    "source_pts": 787454,
+    "source_time": 49.215875,
+    "output_pts": 259454,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.215875
+  },
+  {
+    "source_pts": 788121,
+    "source_time": 49.2575625,
+    "output_pts": 260121,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.2575625
+  },
+  {
+    "source_pts": 788789,
+    "source_time": 49.2993125,
+    "output_pts": 260789,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.2993125
+  },
+  {
+    "source_pts": 789456,
+    "source_time": 49.341,
+    "output_pts": 261456,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.341
+  },
+  {
+    "source_pts": 790123,
+    "source_time": 49.3826875,
+    "output_pts": 262123,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.3826875
+  },
+  {
+    "source_pts": 790791,
+    "source_time": 49.4244375,
+    "output_pts": 262791,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.4244375
+  },
+  {
+    "source_pts": 791458,
+    "source_time": 49.466125,
+    "output_pts": 263458,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.466125
+  },
+  {
+    "source_pts": 792125,
+    "source_time": 49.5078125,
+    "output_pts": 264125,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.5078125
+  },
+  {
+    "source_pts": 792793,
+    "source_time": 49.5495625,
+    "output_pts": 264793,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.5495625
+  },
+  {
+    "source_pts": 793460,
+    "source_time": 49.59125,
+    "output_pts": 265460,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.59125
+  },
+  {
+    "source_pts": 794127,
+    "source_time": 49.6329375,
+    "output_pts": 266127,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.6329375
+  },
+  {
+    "source_pts": 794795,
+    "source_time": 49.6746875,
+    "output_pts": 266795,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.6746875
+  },
+  {
+    "source_pts": 795462,
+    "source_time": 49.716375,
+    "output_pts": 267462,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.716375
+  },
+  {
+    "source_pts": 796129,
+    "source_time": 49.7580625,
+    "output_pts": 268129,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.7580625
+  },
+  {
+    "source_pts": 796797,
+    "source_time": 49.7998125,
+    "output_pts": 268797,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.7998125
+  },
+  {
+    "source_pts": 797464,
+    "source_time": 49.8415,
+    "output_pts": 269464,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.8415
+  },
+  {
+    "source_pts": 798131,
+    "source_time": 49.8831875,
+    "output_pts": 270131,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.8831875
+  },
+  {
+    "source_pts": 798799,
+    "source_time": 49.9249375,
+    "output_pts": 270799,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.9249375
+  },
+  {
+    "source_pts": 799466,
+    "source_time": 49.966625,
+    "output_pts": 271466,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 16.966625
+  },
+  {
+    "source_pts": 800133,
+    "source_time": 50.0083125,
+    "output_pts": 272133,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.0083125
+  },
+  {
+    "source_pts": 800801,
+    "source_time": 50.0500625,
+    "output_pts": 272801,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.0500625
+  },
+  {
+    "source_pts": 801468,
+    "source_time": 50.09175,
+    "output_pts": 273468,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.09175
+  },
+  {
+    "source_pts": 802135,
+    "source_time": 50.1334375,
+    "output_pts": 274135,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.1334375
+  },
+  {
+    "source_pts": 802803,
+    "source_time": 50.1751875,
+    "output_pts": 274803,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.1751875
+  },
+  {
+    "source_pts": 803470,
+    "source_time": 50.216875,
+    "output_pts": 275470,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.216875
+  },
+  {
+    "source_pts": 804137,
+    "source_time": 50.2585625,
+    "output_pts": 276137,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.2585625
+  },
+  {
+    "source_pts": 804805,
+    "source_time": 50.3003125,
+    "output_pts": 276805,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.3003125
+  },
+  {
+    "source_pts": 805472,
+    "source_time": 50.342,
+    "output_pts": 277472,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.342
+  },
+  {
+    "source_pts": 806139,
+    "source_time": 50.3836875,
+    "output_pts": 278139,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.3836875
+  },
+  {
+    "source_pts": 806807,
+    "source_time": 50.4254375,
+    "output_pts": 278807,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.4254375
+  },
+  {
+    "source_pts": 807474,
+    "source_time": 50.467125,
+    "output_pts": 279474,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.467125
+  },
+  {
+    "source_pts": 808141,
+    "source_time": 50.5088125,
+    "output_pts": 280141,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.5088125
+  },
+  {
+    "source_pts": 808809,
+    "source_time": 50.5505625,
+    "output_pts": 280809,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.5505625
+  },
+  {
+    "source_pts": 809476,
+    "source_time": 50.59225,
+    "output_pts": 281476,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.59225
+  },
+  {
+    "source_pts": 810143,
+    "source_time": 50.6339375,
+    "output_pts": 282143,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.6339375
+  },
+  {
+    "source_pts": 810811,
+    "source_time": 50.6756875,
+    "output_pts": 282811,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.6756875
+  },
+  {
+    "source_pts": 811478,
+    "source_time": 50.717375,
+    "output_pts": 283478,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.717375
+  },
+  {
+    "source_pts": 812145,
+    "source_time": 50.7590625,
+    "output_pts": 284145,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.7590625
+  },
+  {
+    "source_pts": 812813,
+    "source_time": 50.8008125,
+    "output_pts": 284813,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.8008125
+  },
+  {
+    "source_pts": 813480,
+    "source_time": 50.8425,
+    "output_pts": 285480,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.8425
+  },
+  {
+    "source_pts": 814147,
+    "source_time": 50.8841875,
+    "output_pts": 286147,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.8841875
+  },
+  {
+    "source_pts": 814815,
+    "source_time": 50.9259375,
+    "output_pts": 286815,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.9259375
+  },
+  {
+    "source_pts": 815482,
+    "source_time": 50.967625,
+    "output_pts": 287482,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 17.967625
+  },
+  {
+    "source_pts": 816149,
+    "source_time": 51.0093125,
+    "output_pts": 288149,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 18.0093125
+  },
+  {
+    "source_pts": 816817,
+    "source_time": 51.0510625,
+    "output_pts": 288817,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 18.0510625
+  },
+  {
+    "source_pts": 817484,
+    "source_time": 51.09275,
+    "output_pts": 289484,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 18.09275
+  },
+  {
+    "source_pts": 818151,
+    "source_time": 51.1344375,
+    "output_pts": 290151,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 18.1344375
+  },
+  {
+    "source_pts": 818819,
+    "source_time": 51.1761875,
+    "output_pts": 290819,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 18.1761875
+  },
+  {
+    "source_pts": 819486,
+    "source_time": 51.217875,
+    "output_pts": 291486,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 18.217875
+  },
+  {
+    "source_pts": 820153,
+    "source_time": 51.2595625,
+    "output_pts": 292153,
+    "black": false,
+    "shot": "kazusa_bouquet_teal",
+    "expected_seconds": 18.2595625
+  },
+  {
+    "source_pts": 820821,
+    "source_time": 51.3013125,
+    "output_pts": 292821,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 18.3013125
+  },
+  {
+    "source_pts": 821488,
+    "source_time": 51.343,
+    "output_pts": 293488,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 18.343
+  },
+  {
+    "source_pts": 822155,
+    "source_time": 51.3846875,
+    "output_pts": 294155,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 18.3846875
+  },
+  {
+    "source_pts": 822823,
+    "source_time": 51.4264375,
+    "output_pts": 294823,
+    "black": false,
+    "shot": "kazusa_yellow_bouquet",
+    "expected_seconds": 18.4264375
+  },
+  {
+    "source_pts": 823490,
+    "source_time": 51.468125,
+    "output_pts": 295490,
+    "black": false,
+    "shot": "kazusa_yellow_bouquet",
+    "expected_seconds": 18.468125
+  },
+  {
+    "source_pts": 824157,
+    "source_time": 51.5098125,
+    "output_pts": 296157,
+    "black": false,
+    "shot": "kazusa_yellow_bouquet",
+    "expected_seconds": 18.5098125
+  },
+  {
+    "source_pts": 824825,
+    "source_time": 51.5515625,
+    "output_pts": 296825,
+    "black": false,
+    "shot": "kazusa_yellow_bouquet",
+    "expected_seconds": 18.5515625
+  },
+  {
+    "source_pts": 825492,
+    "source_time": 51.59325,
+    "output_pts": 297492,
+    "black": false,
+    "shot": "kazusa_yellow_bouquet",
+    "expected_seconds": 18.59325
+  },
+  {
+    "source_pts": 826159,
+    "source_time": 51.6349375,
+    "output_pts": 298159,
+    "black": false,
+    "shot": "kazusa_yellow_bouquet",
+    "expected_seconds": 18.6349375
+  },
+  {
+    "source_pts": 826827,
+    "source_time": 51.6766875,
+    "output_pts": 298827,
+    "black": false,
+    "shot": "kazusa_yellow_bouquet",
+    "expected_seconds": 18.6766875
+  },
+  {
+    "source_pts": 827494,
+    "source_time": 51.718375,
+    "output_pts": 299494,
+    "black": false,
+    "shot": "kazusa_yellow_bouquet",
+    "expected_seconds": 18.718375
+  },
+  {
+    "source_pts": 828161,
+    "source_time": 51.7600625,
+    "output_pts": 300161,
+    "black": false,
+    "shot": "kazusa_yellow_bouquet",
+    "expected_seconds": 18.7600625
+  },
+  {
+    "source_pts": 828829,
+    "source_time": 51.8018125,
+    "output_pts": 300829,
+    "black": false,
+    "shot": "kazusa_yellow_bouquet",
+    "expected_seconds": 18.8018125
+  },
+  {
+    "source_pts": 829496,
+    "source_time": 51.8435,
+    "output_pts": 301496,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 18.8435
+  },
+  {
+    "source_pts": 830163,
+    "source_time": 51.8851875,
+    "output_pts": 302163,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 18.8851875
+  },
+  {
+    "source_pts": 830831,
+    "source_time": 51.9269375,
+    "output_pts": 302831,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 18.9269375
+  },
+  {
+    "source_pts": 831498,
+    "source_time": 51.968625,
+    "output_pts": 303498,
+    "black": false,
+    "shot": "setsuna_yellow_bouquet",
+    "expected_seconds": 18.968625
+  },
+  {
+    "source_pts": 832165,
+    "source_time": 52.0103125,
+    "output_pts": 304165,
+    "black": false,
+    "shot": "setsuna_yellow_bouquet",
+    "expected_seconds": 19.0103125
+  },
+  {
+    "source_pts": 832833,
+    "source_time": 52.0520625,
+    "output_pts": 304833,
+    "black": false,
+    "shot": "setsuna_yellow_bouquet",
+    "expected_seconds": 19.0520625
+  },
+  {
+    "source_pts": 833500,
+    "source_time": 52.09375,
+    "output_pts": 305500,
+    "black": false,
+    "shot": "setsuna_yellow_bouquet",
+    "expected_seconds": 19.09375
+  },
+  {
+    "source_pts": 834168,
+    "source_time": 52.1355,
+    "output_pts": 306168,
+    "black": false,
+    "shot": "setsuna_yellow_bouquet",
+    "expected_seconds": 19.1355
+  },
+  {
+    "source_pts": 834835,
+    "source_time": 52.1771875,
+    "output_pts": 306835,
+    "black": false,
+    "shot": "setsuna_yellow_bouquet",
+    "expected_seconds": 19.1771875
+  },
+  {
+    "source_pts": 835502,
+    "source_time": 52.218875,
+    "output_pts": 307502,
+    "black": false,
+    "shot": "setsuna_yellow_bouquet",
+    "expected_seconds": 19.218875
+  },
+  {
+    "source_pts": 836170,
+    "source_time": 52.260625,
+    "output_pts": 308170,
+    "black": false,
+    "shot": "setsuna_yellow_bouquet",
+    "expected_seconds": 19.260625
+  },
+  {
+    "source_pts": 836837,
+    "source_time": 52.3023125,
+    "output_pts": 308837,
+    "black": false,
+    "shot": "setsuna_yellow_bouquet",
+    "expected_seconds": 19.3023125
+  },
+  {
+    "source_pts": 837504,
+    "source_time": 52.344,
+    "output_pts": 309504,
+    "black": false,
+    "shot": "setsuna_yellow_bouquet",
+    "expected_seconds": 19.344
+  },
+  {
+    "source_pts": 838172,
+    "source_time": 52.38575,
+    "output_pts": 310172,
+    "black": false,
+    "shot": "setsuna_yellow_bouquet",
+    "expected_seconds": 19.38575
+  },
+  {
+    "source_pts": 838839,
+    "source_time": 52.4274375,
+    "output_pts": 310839,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 19.4274375
+  },
+  {
+    "source_pts": 839506,
+    "source_time": 52.469125,
+    "output_pts": 311506,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 19.469125
+  },
+  {
+    "source_pts": 840174,
+    "source_time": 52.510875,
+    "output_pts": 312174,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 19.510875
+  },
+  {
+    "source_pts": 840841,
+    "source_time": 52.5525625,
+    "output_pts": 312841,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 19.5525625
+  },
+  {
+    "source_pts": 841508,
+    "source_time": 52.59425,
+    "output_pts": 313508,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 19.59425
+  },
+  {
+    "source_pts": 842176,
+    "source_time": 52.636,
+    "output_pts": 314176,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 19.636
+  },
+  {
+    "source_pts": 842843,
+    "source_time": 52.6776875,
+    "output_pts": 314843,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 19.6776875
+  },
+  {
+    "source_pts": 843510,
+    "source_time": 52.719375,
+    "output_pts": 315510,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 19.719375
+  },
+  {
+    "source_pts": 844178,
+    "source_time": 52.761125,
+    "output_pts": 316178,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 19.761125
+  },
+  {
+    "source_pts": 844845,
+    "source_time": 52.8028125,
+    "output_pts": 316845,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 19.8028125
+  },
+  {
+    "source_pts": 845512,
+    "source_time": 52.8445,
+    "output_pts": 317512,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 19.8445
+  },
+  {
+    "source_pts": 846180,
+    "source_time": 52.88625,
+    "output_pts": 318180,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 19.88625
+  },
+  {
+    "source_pts": 846847,
+    "source_time": 52.9279375,
+    "output_pts": 318847,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 19.9279375
+  },
+  {
+    "source_pts": 847514,
+    "source_time": 52.969625,
+    "output_pts": 319514,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 19.969625
+  },
+  {
+    "source_pts": 848182,
+    "source_time": 53.011375,
+    "output_pts": 320182,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 20.011375
+  },
+  {
+    "source_pts": 848849,
+    "source_time": 53.0530625,
+    "output_pts": 320849,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 20.0530625
+  },
+  {
+    "source_pts": 849516,
+    "source_time": 53.09475,
+    "output_pts": 321516,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 20.09475
+  },
+  {
+    "source_pts": 850184,
+    "source_time": 53.1365,
+    "output_pts": 322184,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 20.1365
+  },
+  {
+    "source_pts": 850851,
+    "source_time": 53.1781875,
+    "output_pts": 322851,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 20.1781875
+  },
+  {
+    "source_pts": 851518,
+    "source_time": 53.219875,
+    "output_pts": 323518,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 20.219875
+  },
+  {
+    "source_pts": 852186,
+    "source_time": 53.261625,
+    "output_pts": 324186,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 20.261625
+  },
+  {
+    "source_pts": 852853,
+    "source_time": 53.3033125,
+    "output_pts": 324853,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 20.3033125
+  },
+  {
+    "source_pts": 853520,
+    "source_time": 53.345,
+    "output_pts": 325520,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 20.345
+  },
+  {
+    "source_pts": 854188,
+    "source_time": 53.38675,
+    "output_pts": 326188,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 20.38675
+  },
+  {
+    "source_pts": 854855,
+    "source_time": 53.4284375,
+    "output_pts": 326855,
+    "black": false,
+    "shot": "bouquet_toss",
+    "expected_seconds": 20.4284375
+  },
+  {
+    "source_pts": 855522,
+    "source_time": 53.470125,
+    "output_pts": 327522,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 20.470125
+  },
+  {
+    "source_pts": 856190,
+    "source_time": 53.511875,
+    "output_pts": 328190,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 20.511875
+  },
+  {
+    "source_pts": 856857,
+    "source_time": 53.5535625,
+    "output_pts": 328857,
+    "black": true,
+    "shot": "black",
+    "expected_seconds": 20.5535625
+  },
+  {
+    "source_pts": 857524,
+    "source_time": 53.59525,
+    "output_pts": 329524,
+    "black": false,
+    "shot": "setsuna_shoes",
+    "expected_seconds": 20.59525
+  },
+  {
+    "source_pts": 858192,
+    "source_time": 53.637,
+    "output_pts": 330192,
+    "black": false,
+    "shot": "setsuna_shoes",
+    "expected_seconds": 20.637
+  },
+  {
+    "source_pts": 858859,
+    "source_time": 53.6786875,
+    "output_pts": 330859,
+    "black": false,
+    "shot": "setsuna_shoes",
+    "expected_seconds": 20.6786875
+  },
+  {
+    "source_pts": 859526,
+    "source_time": 53.720375,
+    "output_pts": 331526,
+    "black": false,
+    "shot": "setsuna_shoes",
+    "expected_seconds": 20.720375
+  },
+  {
+    "source_pts": 860194,
+    "source_time": 53.762125,
+    "output_pts": 332194,
+    "black": false,
+    "shot": "setsuna_shoes",
+    "expected_seconds": 20.762125
+  },
+  {
+    "source_pts": 860861,
+    "source_time": 53.8038125,
+    "output_pts": 332861,
+    "black": false,
+    "shot": "setsuna_shoes",
+    "expected_seconds": 20.8038125
+  },
+  {
+    "source_pts": 861528,
+    "source_time": 53.8455,
+    "output_pts": 333528,
+    "black": false,
+    "shot": "setsuna_shoes",
+    "expected_seconds": 20.8455
+  },
+  {
+    "source_pts": 862196,
+    "source_time": 53.88725,
+    "output_pts": 334196,
+    "black": false,
+    "shot": "setsuna_shoes",
+    "expected_seconds": 20.88725
+  },
+  {
+    "source_pts": 862863,
+    "source_time": 53.9289375,
+    "output_pts": 334863,
+    "black": false,
+    "shot": "setsuna_shoes",
+    "expected_seconds": 20.9289375
+  },
+  {
+    "source_pts": 863530,
+    "source_time": 53.970625,
+    "output_pts": 335530,
+    "black": false,
+    "shot": "setsuna_shoes",
+    "expected_seconds": 20.970625
+  }
+]

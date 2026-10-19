@@ -1,0 +1,11 @@
+{
+  "video": "PROJECT_ROOT\\outputs\\rabbit_白色相簿2_全片_v4雪菜手部修正版.mp4",
+  "original": "PROJECT_ROOT\\outputs\\assets\\full_pv\\m_intro_setsuna.png",
+  "replacement": "PROJECT_ROOT\\outputs\\assets\\full_revision_v4\\雪菜背身持花_手心朝外.png",
+  "updated_frames": 1040,
+  "hashes": {
+    "PROJECT_ROOT\\outputs\\assets\\full_revision_v4\\雪菜背身持花_手心朝外.png": "1e5243b7a477b0094daa51dd7208c5750dfed0e80d763493784cc79eaeeecc27",
+    "PROJECT_ROOT\\outputs\\assets\\full_pv\\m_intro_setsuna.png": "e541f04b2bb140c81c66a8f5eca4ad17f09ba6c13e9ee8db62dde0f2ac292dd1"
+  },
+  "correction": "Original pose; palm facing outward; reverse underhand grip. Previous forward-grip alternatives discarded."
+}

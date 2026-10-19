@@ -1,0 +1,132 @@
+{
+  "ranges": [
+    [
+      33.0330625,
+      36.7450625
+    ],
+    [
+      85.5021875,
+      89.7146875
+    ]
+  ],
+  "audio_peaks": [
+    [
+      34.113015873,
+      34.658684807,
+      35.204353741
+    ],
+    [
+      86.4769161,
+      87.022585034,
+      87.565351474
+    ]
+  ],
+  "visual_hits": [
+    [
+      34.1174375,
+      34.6596875,
+      35.201875
+    ],
+    [
+      86.4614375,
+      87.0036875,
+      87.545875
+    ]
+  ],
+  "hit_errors_ms": [
+    [
+      4.422,
+      1.003,
+      -2.479
+    ],
+    [
+      -15.479,
+      -18.898,
+      -19.476
+    ]
+  ],
+  "shadow_sha256": "e6889a6535ec7894cda12e7f118af7891bbe5ad6d258440923390351c2ff9775",
+  "native_shadow_bounds": [
+    [
+      87,
+      48,
+      486,
+      862,
+      140400
+    ],
+    [
+      675,
+      48,
+      324,
+      867,
+      112522
+    ],
+    [
+      1232,
+      56,
+      368,
+      857,
+      130167
+    ]
+  ],
+  "outputs": [
+    {
+      "file": "PROJECT_ROOT\\outputs\\rabbit_关系破裂_三色细线_对比样片.mp4",
+      "frames": 202,
+      "duration": 8.42475,
+      "video_end": 8.42475,
+      "bytes": 14141937,
+      "audio_checks": [
+        {
+          "sample_time": 0.25,
+          "correlation": 0.999418316174545,
+          "audio_lag_samples": 0
+        },
+        {
+          "sample_time": 2.0,
+          "correlation": 0.999758852133655,
+          "audio_lag_samples": 0
+        },
+        {
+          "sample_time": 4.462250000000004,
+          "correlation": 0.9993634422921412,
+          "audio_lag_samples": 0
+        },
+        {
+          "sample_time": 6.212250000000004,
+          "correlation": 0.9999115817717031,
+          "audio_lag_samples": 0
+        }
+      ]
+    },
+    {
+      "file": "PROJECT_ROOT\\outputs\\rabbit_关系破裂_三人影子_对比样片.mp4",
+      "frames": 202,
+      "duration": 8.42475,
+      "video_end": 8.42475,
+      "bytes": 16226232,
+      "audio_checks": [
+        {
+          "sample_time": 0.25,
+          "correlation": 0.999418316174545,
+          "audio_lag_samples": 0
+        },
+        {
+          "sample_time": 2.0,
+          "correlation": 0.999758852133655,
+          "audio_lag_samples": 0
+        },
+        {
+          "sample_time": 4.462250000000004,
+          "correlation": 0.9993634422921412,
+          "audio_lag_samples": 0
+        },
+        {
+          "sample_time": 6.212250000000004,
+          "correlation": 0.9999115817717031,
+          "audio_lag_samples": 0
+        }
+      ]
+    }
+  ]
+}

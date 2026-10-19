@@ -1,0 +1,62 @@
+{
+  "file": "PROJECT_ROOT\\outputs\\rabbit_关系破裂_麻绳弹断_v3样片.mp4",
+  "duration": 8.42475,
+  "frames": 202,
+  "width_scale_in_video": 0.58,
+  "pair_wave_amplitude_pixels": 98,
+  "pair_vertical_center_spacing_pixels": 48,
+  "original_texture_unchanged": true,
+  "physics": {
+    "left": {
+      "start_tip": [
+        960.0,
+        456.0
+      ],
+      "min_tip_y": -323.28338623046875,
+      "max_tip_y": 456.0,
+      "tip_at_200ms": [
+        813.122314453125,
+        223.16543579101562
+      ],
+      "tip_at_500ms": [
+        582.2864990234375,
+        46.6741828918457
+      ],
+      "max_tip_speed": 1605.9569091796875,
+      "mean_length_error": 0.0009466623607043683
+    },
+    "right": {
+      "start_tip": [
+        960.0,
+        456.0
+      ],
+      "min_tip_y": 456.0,
+      "max_tip_y": 1491.812744140625,
+      "tip_at_200ms": [
+        1106.7598876953125,
+        696.981201171875
+      ],
+      "tip_at_500ms": [
+        1337.50390625,
+        909.9575805664062
+      ],
+      "max_tip_speed": 1606.7652587890625,
+      "mean_length_error": 0.0007999751522854635
+    }
+  },
+  "same_recoil_reused_in_second_passage": true,
+  "reconciliation_removed": true,
+  "visual_hits": [
+    [
+      34.1174375,
+      34.6596875,
+      35.201875
+    ],
+    [
+      86.4614375,
+      87.0036875,
+      87.545875
+    ]
+  ],
+  "audio_identical_to_previous_sample": true
+}

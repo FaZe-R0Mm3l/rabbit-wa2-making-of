@@ -1,0 +1,162 @@
+{
+  "status": "verified",
+  "output": "PROJECT_ROOT\\outputs\\rabbit_白色相簿2_全片_v4雪菜手部修正版.mp4",
+  "metadata": {
+    "width": 1920,
+    "height": 1080,
+    "frames": 3502,
+    "duration": 146.099955
+  },
+  "corrected_ranges": [
+    {
+      "first": 1.25125,
+      "last": 18.4768125,
+      "frames": 414
+    },
+    {
+      "first": 70.4454375,
+      "last": 79.663,
+      "frames": 222
+    },
+    {
+      "first": 123.373375,
+      "last": 140.181875,
+      "frames": 404
+    }
+  ],
+  "changed_frames": 1040,
+  "original_pose_with_palm_facing_outward": true,
+  "replacement_samples": [
+    {
+      "time": 5.005,
+      "corrected_composite_mae": 2.30659
+    },
+    {
+      "time": 73.9906875,
+      "corrected_composite_mae": 2.1796
+    },
+    {
+      "time": 130.005,
+      "corrected_composite_mae": 2.20432
+    }
+  ],
+  "unchanged_picture_samples": [
+    {
+      "time": 20.02,
+      "mae": 0.0
+    },
+    {
+      "time": 28.9873125,
+      "mae": 0.0
+    },
+    {
+      "time": 38.9973125,
+      "mae": 0.0
+    },
+    {
+      "time": 49.0073125,
+      "mae": 0.0
+    },
+    {
+      "time": 59.017375,
+      "mae": 0.0
+    },
+    {
+      "time": 68.985625,
+      "mae": 0.0
+    },
+    {
+      "time": 79.788125,
+      "mae": 0.0
+    },
+    {
+      "time": 90.0066875,
+      "mae": 0.0
+    },
+    {
+      "time": 99.0156875,
+      "mae": 0.0
+    },
+    {
+      "time": 108.984,
+      "mae": 0.0
+    },
+    {
+      "time": 118.994,
+      "mae": 0.0
+    },
+    {
+      "time": 141.016,
+      "mae": 0.0
+    },
+    {
+      "time": 34.1174375,
+      "mae": 0.0
+    },
+    {
+      "time": 34.6596875,
+      "mae": 0.0
+    },
+    {
+      "time": 35.201875,
+      "mae": 0.0
+    },
+    {
+      "time": 86.4614375,
+      "mae": 0.0
+    },
+    {
+      "time": 87.0036875,
+      "mae": 0.0
+    },
+    {
+      "time": 87.545875,
+      "mae": 0.0
+    }
+  ],
+  "all_3502_frame_timestamps_match_original": true,
+  "blackouts_unchanged": true,
+  "six_flashbacks": [
+    {
+      "time": 34.1174375,
+      "unchanged": true,
+      "preceding_black_frames": 3
+    },
+    {
+      "time": 34.6596875,
+      "unchanged": true,
+      "preceding_black_frames": 3
+    },
+    {
+      "time": 35.201875,
+      "unchanged": true,
+      "preceding_black_frames": 3
+    },
+    {
+      "time": 86.4614375,
+      "unchanged": true,
+      "preceding_black_frames": 3
+    },
+    {
+      "time": 87.0036875,
+      "unchanged": true,
+      "preceding_black_frames": 3
+    },
+    {
+      "time": 87.545875,
+      "unchanged": true,
+      "preceding_black_frames": 3
+    }
+  ],
+  "audio_identical_to_original": true,
+  "audio": {
+    "sha256": "3c2fb8d6435c8d2eefd183bb1acb8e0b51038b57ceb1b3d51c647ca98fa37219",
+    "samples": 6443008,
+    "first_pts": 0.0,
+    "last_pts": 146.07673469387754
+  },
+  "original_and_fixed_PNG_hashes": {
+    "PROJECT_ROOT\\outputs\\assets\\full_revision_v4\\雪菜背身持花_手心朝外.png": "1e5243b7a477b0094daa51dd7208c5750dfed0e80d763493784cc79eaeeecc27",
+    "PROJECT_ROOT\\outputs\\assets\\full_pv\\m_intro_setsuna.png": "e541f04b2bb140c81c66a8f5eca4ad17f09ba6c13e9ee8db62dde0f2ac292dd1"
+  }
+}

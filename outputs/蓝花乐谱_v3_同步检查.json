@@ -1,0 +1,35 @@
+{
+  "duration": 21.0,
+  "width": 1920,
+  "height": 1080,
+  "video_time_base": "1/16000",
+  "video_start": 0,
+  "audio_streams": 1,
+  "file_bytes": 33138943,
+  "frames": 504,
+  "max_frame_timestamp_error_ms": 0.0,
+  "black_frame_mismatches": [],
+  "audio_samples_16k": [
+    336000,
+    336225
+  ],
+  "audio_checks": [
+    {
+      "from_seconds": 0,
+      "offset_ms": 0.0,
+      "correlation": 0.9994859802519492
+    },
+    {
+      "from_seconds": 7,
+      "offset_ms": 0.0,
+      "correlation": 0.999021795283099
+    },
+    {
+      "from_seconds": 14,
+      "offset_ms": 0.0,
+      "correlation": 0.999093159330426
+    }
+  ],
+  "previous_version_video_timeline_equal": true,
+  "previous_version_decoded_audio_equal": true
+}

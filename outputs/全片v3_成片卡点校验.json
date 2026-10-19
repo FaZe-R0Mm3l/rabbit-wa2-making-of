@@ -1,0 +1,253 @@
+{
+  "status": "verified",
+  "output": "PROJECT_ROOT\\outputs\\rabbit_白色相簿2_全片_v3六图闪回版.mp4",
+  "metadata": {
+    "width": 1920,
+    "height": 1080,
+    "frames": 3502,
+    "duration": 146.099955,
+    "time_base": "1/16000"
+  },
+  "all_3502_frame_timestamps_match_original": true,
+  "max_frame_timestamp_error_seconds": 0,
+  "audio_identical_to_original": true,
+  "audio": {
+    "sha256": "3c2fb8d6435c8d2eefd183bb1acb8e0b51038b57ceb1b3d51c647ca98fa37219",
+    "samples": 6443008,
+    "first_pts": 0.0,
+    "last_pts": 146.07673469387754
+  },
+  "six_flashback_checks": [
+    {
+      "attachment": 1,
+      "actual_visible_start": 34.1174375,
+      "audio_peak_redetected": 34.113015873015875,
+      "error_ms": 4.4216,
+      "black_frames_before": 3,
+      "black_duration_ms": 125.125,
+      "visible_frames": 10,
+      "native_composite_vs_encoded_mae": 2.69255
+    },
+    {
+      "attachment": 2,
+      "actual_visible_start": 34.6596875,
+      "audio_peak_redetected": 34.658684807256236,
+      "error_ms": 1.0027,
+      "black_frames_before": 3,
+      "black_duration_ms": 125.125,
+      "visible_frames": 10,
+      "native_composite_vs_encoded_mae": 2.66147
+    },
+    {
+      "attachment": 3,
+      "actual_visible_start": 35.201875,
+      "audio_peak_redetected": 35.2043537414966,
+      "error_ms": -2.4787,
+      "black_frames_before": 3,
+      "black_duration_ms": 125.125,
+      "visible_frames": 16,
+      "native_composite_vs_encoded_mae": 2.4826
+    },
+    {
+      "attachment": 4,
+      "actual_visible_start": 86.4614375,
+      "audio_peak_redetected": 86.47691609977325,
+      "error_ms": -15.4786,
+      "black_frames_before": 3,
+      "black_duration_ms": 125.125,
+      "visible_frames": 10,
+      "native_composite_vs_encoded_mae": 2.48917
+    },
+    {
+      "attachment": 5,
+      "actual_visible_start": 87.0036875,
+      "audio_peak_redetected": 87.0225850340136,
+      "error_ms": -18.8975,
+      "black_frames_before": 3,
+      "black_duration_ms": 125.125,
+      "visible_frames": 10,
+      "native_composite_vs_encoded_mae": 2.66765
+    },
+    {
+      "attachment": 6,
+      "actual_visible_start": 87.545875,
+      "audio_peak_redetected": 87.5653514739229,
+      "error_ms": -19.4765,
+      "black_frames_before": 3,
+      "black_duration_ms": 125.125,
+      "visible_frames": 16,
+      "native_composite_vs_encoded_mae": 2.38045
+    }
+  ],
+  "maximum_flash_onset_error_ms": 19.4765,
+  "blackout_frames_each": 3,
+  "approved_21_lyric_flashbacks_unchanged": [
+    {
+      "start": 42.709375,
+      "asset": "setsuna_1",
+      "lyric": "yellow"
+    },
+    {
+      "start": 43.2933125,
+      "asset": "kazusa_1",
+      "lyric": "monkey"
+    },
+    {
+      "start": 43.7520625,
+      "asset": "setsuna_2",
+      "lyric": "drunk"
+    },
+    {
+      "start": 44.336,
+      "asset": "kazusa_2",
+      "lyric": "baby"
+    },
+    {
+      "start": 51.4264375,
+      "asset": "f15_depart_class",
+      "lyric": "消えろ"
+    },
+    {
+      "start": 51.968625,
+      "asset": "f16_haruki_guitar",
+      "lyric": "noisy"
+    },
+    {
+      "start": 52.5525625,
+      "asset": "f17_rehearsal",
+      "lyric": "minority"
+    },
+    {
+      "start": 95.053375,
+      "asset": "f21_festival",
+      "lyric": "yellow"
+    },
+    {
+      "start": 95.6373125,
+      "asset": "f22_haruki_run",
+      "lyric": "monkey"
+    },
+    {
+      "start": 96.096125,
+      "asset": "f23_christmas",
+      "lyric": "drunk"
+    },
+    {
+      "start": 96.68,
+      "asset": "f24_snow_cry",
+      "lyric": "baby"
+    },
+    {
+      "start": 103.7704375,
+      "asset": "f25_airport_turn",
+      "lyric": "消えろ"
+    },
+    {
+      "start": 104.312625,
+      "asset": "f26_stage_kazusa",
+      "lyric": "noisy"
+    },
+    {
+      "start": 104.8965625,
+      "asset": "f27_airport_setsuna",
+      "lyric": "minority"
+    },
+    {
+      "start": 112.4875,
+      "asset": "f31_concert_bow",
+      "lyric": "yellow"
+    },
+    {
+      "start": 113.071375,
+      "asset": "f32_forced_smile",
+      "lyric": "monkey"
+    },
+    {
+      "start": 113.5301875,
+      "asset": "f33_setsuna_hug",
+      "lyric": "drunk"
+    },
+    {
+      "start": 114.114125,
+      "asset": "f34_kazusa_lean",
+      "lyric": "baby"
+    },
+    {
+      "start": 121.2045625,
+      "asset": "f35_haruki_leave",
+      "lyric": "消えろ"
+    },
+    {
+      "start": 121.74675,
+      "asset": "f36_setsuna_phone",
+      "lyric": "noisy"
+    },
+    {
+      "start": 122.3306875,
+      "asset": "f37_kazusa_solo",
+      "lyric": "minority"
+    }
+  ],
+  "unaffected_picture_comparisons": [
+    {
+      "time": 10.01,
+      "mae": 0.0
+    },
+    {
+      "time": 20.02,
+      "mae": 0.0
+    },
+    {
+      "time": 28.9873125,
+      "mae": 0.0
+    },
+    {
+      "time": 38.9973125,
+      "mae": 0.73553
+    },
+    {
+      "time": 49.0073125,
+      "mae": 0.0
+    },
+    {
+      "time": 59.017375,
+      "mae": 0.0
+    },
+    {
+      "time": 68.985625,
+      "mae": 0.0
+    },
+    {
+      "time": 78.9956875,
+      "mae": 0.0
+    },
+    {
+      "time": 99.0156875,
+      "mae": 0.0
+    },
+    {
+      "time": 108.984,
+      "mae": 0.0
+    },
+    {
+      "time": 118.994,
+      "mae": 0.0
+    },
+    {
+      "time": 129.004,
+      "mae": 0.0
+    },
+    {
+      "time": 139.014,
+      "mae": 0.0
+    },
+    {
+      "time": 145.02,
+      "mae": 0.0
+    }
+  ],
+  "blue_bouquet_at_90s_verified": true,
+  "blue_bouquet_composite_mae": 2.42594,
+  "six_input_PNGs_byte_identical": true,
+  "rope_and_head_drop_absent": true
+}

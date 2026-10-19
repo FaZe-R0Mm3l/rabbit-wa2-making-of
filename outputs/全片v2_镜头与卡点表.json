@@ -1,0 +1,170 @@
+{
+  "flash": [
+    [
+      42.709375,
+      43.2933125,
+      "setsuna_1",
+      "yellow"
+    ],
+    [
+      43.2933125,
+      43.7520625,
+      "kazusa_1",
+      "monkey"
+    ],
+    [
+      43.7520625,
+      44.336,
+      "setsuna_2",
+      "drunk"
+    ],
+    [
+      44.336,
+      44.7530625,
+      "kazusa_2",
+      "baby"
+    ],
+    [
+      51.4264375,
+      51.8435,
+      "f15_depart_class",
+      "消えろ"
+    ],
+    [
+      51.968625,
+      52.4274375,
+      "f16_haruki_guitar",
+      "noisy"
+    ],
+    [
+      52.5525625,
+      53.470125,
+      "f17_rehearsal",
+      "minority"
+    ],
+    [
+      95.053375,
+      95.6373125,
+      "f21_festival",
+      "yellow"
+    ],
+    [
+      95.6373125,
+      96.096125,
+      "f22_haruki_run",
+      "monkey"
+    ],
+    [
+      96.096125,
+      96.68,
+      "f23_christmas",
+      "drunk"
+    ],
+    [
+      96.68,
+      97.097125,
+      "f24_snow_cry",
+      "baby"
+    ],
+    [
+      103.7704375,
+      104.1875,
+      "f25_airport_turn",
+      "消えろ"
+    ],
+    [
+      104.312625,
+      104.7714375,
+      "f26_stage_kazusa",
+      "noisy"
+    ],
+    [
+      104.8965625,
+      105.814125,
+      "f27_airport_setsuna",
+      "minority"
+    ],
+    [
+      112.4875,
+      113.071375,
+      "f31_concert_bow",
+      "yellow"
+    ],
+    [
+      113.071375,
+      113.5301875,
+      "f32_forced_smile",
+      "monkey"
+    ],
+    [
+      113.5301875,
+      114.114125,
+      "f33_setsuna_hug",
+      "drunk"
+    ],
+    [
+      114.114125,
+      114.5311875,
+      "f34_kazusa_lean",
+      "baby"
+    ],
+    [
+      121.2045625,
+      121.621625,
+      "f35_haruki_leave",
+      "消えろ"
+    ],
+    [
+      121.74675,
+      122.2055625,
+      "f36_setsuna_phone",
+      "noisy"
+    ],
+    [
+      122.3306875,
+      123.24825,
+      "f37_kazusa_solo",
+      "minority"
+    ]
+  ],
+  "restore_visual_range": [
+    33.0,
+    51.3013125
+  ],
+  "requested_restore_range": [
+    33,
+    50
+  ],
+  "replacements": [
+    {
+      "range": [
+        27.3606875,
+        31.6149375
+      ],
+      "from": "f16_haruki_guitar",
+      "to": "setsuna_2"
+    },
+    {
+      "range": [
+        40.4154375,
+        42.709375
+      ],
+      "from": "f16_haruki_guitar",
+      "to": "setsuna_bouquet_teal",
+      "method": "approved sample sequence"
+    },
+    {
+      "range": [
+        110.1935,
+        112.4875
+      ],
+      "from": "f37_kazusa_solo",
+      "to": "kazusa_1"
+    }
+  ],
+  "audio": "original stream copy",
+  "original_sample": "PROJECT_ROOT\\outputs\\rabbit_白色相簿2_33-54秒_v2蓝花版.mp4",
+  "caption_policy": "retain corrected full-song timing and wording",
+  "snow": "continuous full-song clock; approved snowflake design",
+  "native_image_pixels": true
+}

@@ -1,0 +1,29 @@
+{
+  "output": "PROJECT_ROOT\\outputs\\rabbit_白色相簿2_全片卡点预览_待补图.mp4",
+  "metadata": {
+    "width": 1920,
+    "height": 1080,
+    "duration": 146.099955,
+    "time_base": "1/16000",
+    "frame_count": 3502
+  },
+  "frame_count_equal": true,
+  "max_frame_pts_error_seconds": 0.0,
+  "black_frame_mismatches": 0,
+  "audio_identical": true,
+  "output_audio": {
+    "decoded_sha256": "3c2fb8d6435c8d2eefd183bb1acb8e0b51038b57ceb1b3d51c647ca98fa37219",
+    "decoded_samples": 6443008,
+    "sample_rate": 44100,
+    "first_pts": 0.0,
+    "last_pts": 146.07673469387754
+  },
+  "source_audio": {
+    "decoded_sha256": "3c2fb8d6435c8d2eefd183bb1acb8e0b51038b57ceb1b3d51c647ca98fa37219",
+    "decoded_samples": 6443008,
+    "sample_rate": 44100,
+    "first_pts": 0.0,
+    "last_pts": 146.07673469387754
+  },
+  "status": "Timing preview only. 23 final character layers remain blocked by image generation service."
+}
