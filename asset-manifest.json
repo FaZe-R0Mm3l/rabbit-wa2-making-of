@@ -1,0 +1,292 @@
+[
+  {
+    "path": "outputs/assets/bouquet_toss.png",
+    "bytes": 3069000,
+    "sha256": "9b139f903e2603d4a14a47237b0e1eafec3d432baf4c5a6f386310f87430f7aa"
+  },
+  {
+    "path": "outputs/assets/kazusa_1.png",
+    "bytes": 3439467,
+    "sha256": "cd272c0c6f9aa4b7801296b3954e8c504e719934b2999ede97555f9233a38a33"
+  },
+  {
+    "path": "outputs/assets/kazusa_2.png",
+    "bytes": 3342415,
+    "sha256": "a37b864780527f6a632777be1c4c383765b3532a211dc8333dfe9bf440bae923"
+  },
+  {
+    "path": "outputs/assets/kazusa_bouquet_teal.png",
+    "bytes": 3433760,
+    "sha256": "3ef2069e4a6299ec2d818d31bc82fb6253e086dae658b8051497e44b9b1252be"
+  },
+  {
+    "path": "outputs/assets/kazusa_piano_cutout.png",
+    "bytes": 1480336,
+    "sha256": "a446256798e9b690348767b3204e39644fba67e65defe36b58a2f861761c394b"
+  },
+  {
+    "path": "outputs/assets/kazusa_piano_yellow.png",
+    "bytes": 3416049,
+    "sha256": "80e3f34a93ed7c2e2a0719d71abb7c5ee80e50a18b0c878e1a84f0941ed2a513"
+  },
+  {
+    "path": "outputs/assets/kazusa_yellow_bouquet.png",
+    "bytes": 3419059,
+    "sha256": "dc07091d00cb31881381701ce364ec6ee8b7f5a39d3d55b5ce61b014f925cb78"
+  },
+  {
+    "path": "outputs/assets/NotoSerifCJKjp-Regular.otf",
+    "bytes": 24573864,
+    "sha256": "d9854c7a8ef170b5a7932558856fd64eb8de0b007cd823fed6f9f514ad2803d3"
+  },
+  {
+    "path": "outputs/assets/setsuna_1.png",
+    "bytes": 3424713,
+    "sha256": "77d26e21b74c2460d2d0241a6f946853eb26d0bfff5a7ac8c7e689412f061fd8"
+  },
+  {
+    "path": "outputs/assets/setsuna_2.png",
+    "bytes": 3268528,
+    "sha256": "a037de2d2bf25303298cf77707c07ea2d41b79d49d601d7f3310ca426611b4eb"
+  },
+  {
+    "path": "outputs/assets/setsuna_bouquet_teal.png",
+    "bytes": 3433231,
+    "sha256": "978939a5fce18244073bf3686a5be977ad3a80a9e8d4e83b02b4f2c5465f9d5c"
+  },
+  {
+    "path": "outputs/assets/setsuna_shoes.png",
+    "bytes": 3105342,
+    "sha256": "078dd364cbddbbf8424f5f479ac9061bacbdef5e1d21bfe1f4a4cd7a683b45eb"
+  },
+  {
+    "path": "outputs/assets/setsuna_yellow_bouquet.png",
+    "bytes": 3340624,
+    "sha256": "fe3ba1bf56c8212d0b38326d95b1a3872e5b993884a33e4aa6d27ff0af62c977"
+  },
+  {
+    "path": "outputs/assets/yellow_paper.png",
+    "bytes": 3161953,
+    "sha256": "2b34760a3f52be70ab36729a262825b7bfc253931ead93d59f4569a4b6ccc0ce"
+  },
+  {
+    "path": "outputs/assets/三人影子_原图.png",
+    "bytes": 1125229,
+    "sha256": "e6889a6535ec7894cda12e7f118af7891bbe5ad6d258440923390351c2ff9775"
+  },
+  {
+    "path": "outputs/assets/三色麻绳_手绘纹理_原图.png",
+    "bytes": 1899737,
+    "sha256": "5d2c4f23eedea596c04446d8598d9ab86f8045826a273db10a49340fbdfc1cf5"
+  },
+  {
+    "path": "outputs/assets/full_pv/f11_rooftop.png",
+    "bytes": 1065977,
+    "sha256": "e8ede298594d718e2d614661e56e97e14b24665058ad08a10460d390ac349ad9"
+  },
+  {
+    "path": "outputs/assets/full_pv/f12_classroom.png",
+    "bytes": 1713697,
+    "sha256": "c8c1e6bc848548a2732e842a4f4f137f85a992e271c2afde6b698ab78e647132"
+  },
+  {
+    "path": "outputs/assets/full_pv/f13_karaoke.png",
+    "bytes": 2417491,
+    "sha256": "60e7bcf85f0fa8ab94bfd7c4ad5c0521f48509220af863b71cb5119828477073"
+  },
+  {
+    "path": "outputs/assets/full_pv/f14_sick.png",
+    "bytes": 2406329,
+    "sha256": "2c796cee08daca36b1f614d08b4745402eb9b3e32121700967662e1a032a8109"
+  },
+  {
+    "path": "outputs/assets/full_pv/f15_depart_class.png",
+    "bytes": 1584931,
+    "sha256": "cc62a08591e1bd60cdc7eda2ff2afa75e51a04fe7df42c9be533d44a24244c61"
+  },
+  {
+    "path": "outputs/assets/full_pv/f16_haruki_guitar.png",
+    "bytes": 2267525,
+    "sha256": "96c29251eb55e6ff98523a880a1f150893fde2e1334523b376efcf9d37741bb6"
+  },
+  {
+    "path": "outputs/assets/full_pv/f17_rehearsal.png",
+    "bytes": 1877925,
+    "sha256": "cf25d2cdeb476fbbfa1293359f55dad208d66b2d437a0000bf91daed806d8925"
+  },
+  {
+    "path": "outputs/assets/full_pv/f21_festival.png",
+    "bytes": 1687147,
+    "sha256": "17104d4085d8c14dce92d1c8a396175d06a90da5672a3e754c364c8982f08724"
+  },
+  {
+    "path": "outputs/assets/full_pv/f22_haruki_run.png",
+    "bytes": 2013216,
+    "sha256": "df7d83c60ed544660f1e6fdfe302530018a2bfd2052fc547304adc69168e7f34"
+  },
+  {
+    "path": "outputs/assets/full_pv/f23_christmas.png",
+    "bytes": 2021856,
+    "sha256": "ec671eb27ce10ad63e2fdf3a57781f43a2b3f5c3a29827f7d5a2ea3f941d3204"
+  },
+  {
+    "path": "outputs/assets/full_pv/f24_snow_cry.png",
+    "bytes": 2387163,
+    "sha256": "64c45e5b2ba552da38773770b9d65271607c5880197ce09483763f05aaad3f84"
+  },
+  {
+    "path": "outputs/assets/full_pv/f25_airport_turn.png",
+    "bytes": 1728312,
+    "sha256": "38cd46bafceb175e39657d4f84be7d87366f342ad262f719e354172d5c0914d1"
+  },
+  {
+    "path": "outputs/assets/full_pv/f26_stage_kazusa.png",
+    "bytes": 2686247,
+    "sha256": "832082efab1232276ac7e071fd25e311a2de755e3bf2f6c0e4bc2e2bba403ec6"
+  },
+  {
+    "path": "outputs/assets/full_pv/f27_airport_setsuna.png",
+    "bytes": 1543696,
+    "sha256": "e5001c2cd5e7440c43e81b4659ae7f0eb50a5df05c1b6e96890dd5af03ab2b89"
+  },
+  {
+    "path": "outputs/assets/full_pv/f31_concert_bow.png",
+    "bytes": 1834138,
+    "sha256": "d2449738ddaf2ad25177139628afd2822c18bca24caf8577f0153a884071087d"
+  },
+  {
+    "path": "outputs/assets/full_pv/f32_forced_smile.png",
+    "bytes": 1554116,
+    "sha256": "7c9c91fe258ec09dcd4194d423a8d3d756422934b29493a22c9286ff883f8cdf"
+  },
+  {
+    "path": "outputs/assets/full_pv/f33_setsuna_hug.png",
+    "bytes": 2426607,
+    "sha256": "2527a4f90cd63e8fb0d5c536fa48af65c67bd67e8a43d3ebbc9900922da8f0eb"
+  },
+  {
+    "path": "outputs/assets/full_pv/f34_kazusa_lean.png",
+    "bytes": 2452996,
+    "sha256": "d8d2deede22a00344027fbd815dfcbe11889f45d0b1c50633f871342d5b8948d"
+  },
+  {
+    "path": "outputs/assets/full_pv/f35_haruki_leave.png",
+    "bytes": 1194677,
+    "sha256": "c4c0358830d6db62acc4ffa81c209839cfb204a0de016f1383a44710cb679c30"
+  },
+  {
+    "path": "outputs/assets/full_pv/f36_setsuna_phone.png",
+    "bytes": 2037409,
+    "sha256": "dcd32280e8355d613ae213ac9ff8227115d2da6067cfb0de212f7c2da54bbf15"
+  },
+  {
+    "path": "outputs/assets/full_pv/f37_kazusa_solo.png",
+    "bytes": 2234518,
+    "sha256": "0f32907b95e1038228f5ba635112cdebdc7bead2f61f183cb5c95a73e08217f7"
+  },
+  {
+    "path": "outputs/assets/full_pv/m_haruki_grief.png",
+    "bytes": 2189731,
+    "sha256": "aac9253e7639bd469cd2d8dedf458c6b828950498958123cb469b2c87617a90b"
+  },
+  {
+    "path": "outputs/assets/full_pv/m_intro_setsuna.png",
+    "bytes": 1809765,
+    "sha256": "e541f04b2bb140c81c66a8f5eca4ad17f09ba6c13e9ee8db62dde0f2ac292dd1"
+  },
+  {
+    "path": "outputs/assets/full_pv/m_kazusa_night.png",
+    "bytes": 1635701,
+    "sha256": "a3bfa6c1c28f46d33d86d89606bb3fa0a9ca9d712f73da073d2bf76aaead460b"
+  },
+  {
+    "path": "outputs/assets/full_pv/m_kazusa_release.png",
+    "bytes": 1934062,
+    "sha256": "b8d32bd3d44398890d09e760c82c45a916d7d45916199978f5b6e35303f36044"
+  },
+  {
+    "path": "outputs/assets/full_pv/m_setsuna_night.png",
+    "bytes": 2301975,
+    "sha256": "60b85b9ad78332c451c1f5a70efc56150211f85dc47420662011c4ae2523f762"
+  },
+  {
+    "path": "outputs/assets/full_revision_v3/闪回1_雪菜舞台.png",
+    "bytes": 1687147,
+    "sha256": "17104d4085d8c14dce92d1c8a396175d06a90da5672a3e754c364c8982f08724"
+  },
+  {
+    "path": "outputs/assets/full_revision_v3/闪回2_和纱钢琴.png",
+    "bytes": 2234518,
+    "sha256": "0f32907b95e1038228f5ba635112cdebdc7bead2f61f183cb5c95a73e08217f7"
+  },
+  {
+    "path": "outputs/assets/full_revision_v3/闪回3_春希吉他.png",
+    "bytes": 2267525,
+    "sha256": "96c29251eb55e6ff98523a880a1f150893fde2e1334523b376efcf9d37741bb6"
+  },
+  {
+    "path": "outputs/assets/full_revision_v3/闪回4_和纱抱毯.png",
+    "bytes": 2406329,
+    "sha256": "2c796cee08daca36b1f614d08b4745402eb9b3e32121700967662e1a032a8109"
+  },
+  {
+    "path": "outputs/assets/full_revision_v3/闪回5_雪菜电话.png",
+    "bytes": 2037409,
+    "sha256": "dcd32280e8355d613ae213ac9ff8227115d2da6067cfb0de212f7c2da54bbf15"
+  },
+  {
+    "path": "outputs/assets/full_revision_v3/闪回6_春希背影.png",
+    "bytes": 1194677,
+    "sha256": "c4c0358830d6db62acc4ffa81c209839cfb204a0de016f1383a44710cb679c30"
+  },
+  {
+    "path": "outputs/assets/full_revision_v4/雪菜背身持花_手心朝外.png",
+    "bytes": 1713051,
+    "sha256": "1e5243b7a477b0094daa51dd7208c5750dfed0e80d763493784cc79eaeeecc27"
+  },
+  {
+    "path": "outputs/assets/v3/bouquet_toss_dual.png",
+    "bytes": 2630180,
+    "sha256": "a496f591e66d60dfa0e89958c046f2e9a3c44df7fdee4e62a3977ef8a73228dd"
+  },
+  {
+    "path": "outputs/assets/v3/flash_broken_keys.png",
+    "bytes": 2863194,
+    "sha256": "7569569b40c5dacb7ced12fb6e1588bcbdaa88af86b76326b7aad11d354814c8"
+  },
+  {
+    "path": "outputs/assets/v3/flash_microphone.png",
+    "bytes": 2914811,
+    "sha256": "c717d7a868a4482b6ee9412b43ca0b8468776eaa106e4077f7af349b4909967f"
+  },
+  {
+    "path": "outputs/assets/v3/flash_microphone_small.png",
+    "bytes": 2558546,
+    "sha256": "63206ac0d33c57803de62bd8796a155a2c420536d6eb0c83157d623c38815f39"
+  },
+  {
+    "path": "outputs/assets/v3/flash_piano.png",
+    "bytes": 2961159,
+    "sha256": "830a1a82ecb0f70bba5b12ba5d785301905b7b50bef9388ced1bc9dd4c073d29"
+  },
+  {
+    "path": "outputs/assets/v3/flash_torn_score.png",
+    "bytes": 2947421,
+    "sha256": "2b4d01a8484110deea4cf0cca3acb213f84bbfdd32e40d484d1de4267e17e957"
+  },
+  {
+    "path": "outputs/assets/v3/flash_torn_score_small.png",
+    "bytes": 2588394,
+    "sha256": "335f707543652fdbb21a44a246929cce257672c2e046ef7b93d11178e11e679d"
+  },
+  {
+    "path": "outputs/assets/v3/kazusa_bouquet_teal_blue.png",
+    "bytes": 3033020,
+    "sha256": "e533ff97a75a1f4a795c42da834e23d402976d7fc21f9ad90e464b964b3b1f38"
+  },
+  {
+    "path": "outputs/assets/v3/kazusa_yellow_bouquet_blue.png",
+    "bytes": 2910360,
+    "sha256": "cbe5e29aaf41929fd150ff2a0351ae3f675a5339831c0c7c1af61e2e187dd726"
+  }
+]
