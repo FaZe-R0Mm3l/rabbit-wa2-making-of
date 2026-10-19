@@ -1,0 +1,12 @@
+Tool: built-in image_gen
+Selected output: LOCAL_PATH_REDACTED
+Workspace PNG is copied byte-identically. The original illustration and rejected alternatives are not overwritten.
+User's final correction: 最开始的那张图就可以，让握着花的手心朝外，手掌是反手握住花的。
+
+Use case: precise-object-edit.
+EDIT TARGET: this ORIGINAL transparent Setsuna illustration. Use THIS original as the base, not any previous revision.
+The user has clarified the exact correction in Chinese: “让握着花的手心朝外，手掌是反手握住花的”. That means the visible bouquet-holding hand must show its PALM FACING OUTWARD TOWARD THE VIEWER, in an UNDERHAND / REVERSE GRIP behind her hip. The earlier forward-grip interpretation was wrong.
+Make a very localized change ONLY to the bouquet-holding hand and the minimal wrist transition. Keep the original arm path, sleeve/cuff position, bouquet angle and position, purple flowers, paper wrapping, burgundy bow, torso, face, hair, skirt and composition unchanged.
+Replace the currently visible BACK OF THE HOLDING HAND / fingernail side with the INNER PALMAR SURFACE. The palm faces the camera: clearly draw a natural shallow palm cup, thumb pad / thenar mound and subtle palm creases. The thumb opposes the other four fingers, with finger pads curled naturally around the existing diagonally held stems; the fingers reach around the stems toward the body, supporting the bouquet in a believable reverse underhand grip. The green stems cross the cupped palm and emerge on the same side/angle as in the original. Show the inner palm and finger pads rather than the back of the knuckles. No upright microphone grip, no turning bouquet vertical, no lowering or moving the bouquet, no open waving hand. Keep the hand securely holding the stems. Correct human anatomy, one thumb and four fingers, no duplicate wrist or extra visible hand near the ribbon.
+Match original hand size and exact location near the lower-right hip. Any necessary forearm supination should be subtle and physically natural; do not redesign the pose. The visible palm must be unmistakable in the result.
+Preserve original 1672x941 canvas, native subject size, face and hair exactly as closely as possible; same graphite outlines and coarse colored-pencil hatching. Preserve real alpha transparency, no background, no text, no watermark. All changes outside the hand/wrist region should be minimal.
